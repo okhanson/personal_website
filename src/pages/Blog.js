@@ -19,7 +19,7 @@ function Blog() {
         </p>
 
         <p className="text-lg mb-4">
-          It was inspiring, exciting, and terrifying to hear firsthand how these major companies are implementing data-driven decision-making and AI innovation across their operations. 
+          It was inspiring, exciting, and terrifying to hear firsthand how these major companies are implementing data-driven decision-making and AI innovation across their operations.
         </p>
 
         <p className="text-lg mb-6">
@@ -28,9 +28,21 @@ function Blog() {
 
         {/* Pictures */}
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mt-8">
-          <img src="/netflix.jpg" alt="San Jose Tour 1" className="rounded-lg shadow-md object-cover w-full h-64" />
-          <img src="/oracle.jpg" alt="San Jose Tour 2" className="rounded-lg shadow-md object-cover w-full h-64" />
-          <img src="/google.jpg" alt="San Jose Tour 3" className="rounded-lg shadow-md object-cover w-full h-64" />
+          <img
+            src={`${process.env.PUBLIC_URL}/netflix.jpg`}
+            alt="San Jose Tour 1"
+            className="rounded-lg shadow-md object-cover w-full h-64"
+          />
+          <img
+            src={`${process.env.PUBLIC_URL}/oracle.jpg`}
+            alt="San Jose Tour 2"
+            className="rounded-lg shadow-md object-cover w-full h-64"
+          />
+          <img
+            src={`${process.env.PUBLIC_URL}/google.jpg`}
+            alt="San Jose Tour 3"
+            className="rounded-lg shadow-md object-cover w-full h-64"
+          />
         </div>
       </div>
     </section>
