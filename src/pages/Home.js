@@ -48,7 +48,7 @@ function Home() {
       {/* SKILLS SECTION */}
       <section id="skills" className="py-16 px-6 bg-gray-100 text-center">
         <div className="flex flex-wrap justify-center items-center gap-8">
-          <img src="/pythonlogo.png" alt="Python" className="h-12 w-auto" />
+          <img src={`${process.env.PUBLIC_URL}/pythonlogo.png`} alt="Python" />
           <img src="/Rlogo.png" alt="R" className="h-12 w-auto" />
           <img src="/sqllogo.png" alt="SQL" className="h-12 w-auto" />
           <img src="/mysqllogo.png" alt="MySQL" className="h-12 w-auto" />
