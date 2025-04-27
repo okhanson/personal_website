@@ -1,24 +1,46 @@
-import logo from './logo.svg';
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import './App.css';
+
+// Import pages
+import Home from './pages/Home';
+import Projects from './pages/Projects';
+import Blog from './pages/Blog'         
+import Misc from './pages/Misc';  
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <div className="min-h-screen bg-gray-50 font-sans">
+        {/* NAVBAR */}
+        <nav className="bg-white shadow-md fixed w-full z-10">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="flex justify-between items-center h-16">
+              <div className="flex-shrink-0">
+                <Link to="/" className="text-green-800 text-2xl font-bold">
+                  Owen Hanson
+                </Link>
+              </div>
+              <div className="hidden md:flex space-x-8">
+                <Link to="/" className="text-gray-700 hover:text-green-800 transition">Home</Link>
+                <Link to="/projects" className="text-gray-700 hover:text-green-800 transition">Projects</Link>
+                <Link to="/blog" className="text-gray-700 hover:text-green-800 transition">Blog</Link>
+                <Link to="/misc" className="text-gray-700 hover:text-green-800 transition">Misc</Link>                
+              </div>
+            </div>
+          </div>
+        </nav>
+
+        <div className="pt-16">  {/* Offset for fixed navbar */}
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/projects" element={<Projects />} />
+            <Route path="/Blog" element={<Blog />} /> 
+            <Route path="/Misc" element={<Misc />} />             
+          </Routes>
+        </div>
+      </div>
+    </Router>
   );
 }
 
