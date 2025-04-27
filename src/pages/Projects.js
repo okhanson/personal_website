@@ -16,35 +16,32 @@ function Projects() {
         <p className="text-lg mb-4">
           As part of my Master’s program, I am currently working with Claritas on an applied AI industry project focused on enhancing marketing intelligence through Retrieval-Augmented Generation (RAG) pipelines.
           This involves identifying high-value data sources, embedding text data using Amazon Bedrock (Titan, Cohere) and SpaCy models, and comparing similarity scores via cosine similarity.
-          
         </p>
-
         <p className="text-md text-gray-700 mb-6">
           Tools Used: Python, Amazon Bedrock, Cohere API, SpaCy, cosine similarity, vector stores, RAG pipelines.
         </p>
-
-        {/* Example file links */}
         <div className="flex justify-center space-x-6">
           <a
-            href="/Claritas_AI_Project_Slides.pdf"
+            href={`${process.env.PUBLIC_URL}/Claritas_AI_Project_Slides.pdf`}
             target="_blank"
             rel="noopener noreferrer"
             className="text-sky-500 hover:underline"
           >
-            
+            📄 View Project Slides
           </a>
           <a
-            href="/Claritas_RAG_Model_Summary.pdf"
+            href={`${process.env.PUBLIC_URL}/Claritas_RAG_Model_Summary.pdf`}
             target="_blank"
             rel="noopener noreferrer"
             className="text-sky-500 hover:underline"
           >
-            
+            📝 Read Model Summary
           </a>
         </div>
       </div>
+
       {/* F5 Project Section */}
-      <div className="max-w-3xl mx-auto text-left bg-gray-100 p-8 rounded-lg shadow-md">
+      <div className="max-w-3xl mx-auto text-left bg-gray-100 p-8 rounded-lg shadow-md mb-10">
         <h3 className="text-2xl font-bold text-green-800 mb-2">
           F5 Customer Churn Prediction & Segmentation
         </h3>
@@ -56,15 +53,12 @@ function Projects() {
           The model remained statistically significant across longer time horizons (3-year and 5-year forecasts), with performance measured using log-likelihood ratio (LLR), recall, and F1 metrics.
           I further identified distinct churn profiles through clustering of high-risk customers and developed actionable insights via executive-ready visualizations.
         </p>
-
         <p className="text-md text-gray-700 mb-6">
           Tools Used: Python (pandas, scikit-learn, lifelines, matplotlib), clustering techniques, Cox Proportional Hazards model.
         </p>
-
-        {/* Example file links */}
         <div className="flex justify-center space-x-6">
           <a
-            href="/F5 Final Pres.pptx"
+            href={`${process.env.PUBLIC_URL}/F5 Final Pres.pptx`}
             target="_blank"
             rel="noopener noreferrer"
             className="text-sky-500 hover:underline"
@@ -72,19 +66,18 @@ function Projects() {
             📄 View Project Slides
           </a>
           <a
-            href="/F5_Churn_Model_Results.pdf"
+            href={`${process.env.PUBLIC_URL}/F5_Churn_Model_Results.pdf`}
             target="_blank"
             rel="noopener noreferrer"
             className="text-sky-500 hover:underline"
           >
-       
+            📝 Read Model Results
           </a>
         </div>
       </div>
 
-    
       {/* WINE SUBSCRIPTION MYSQL PROJECT */}
-      <div className="max-w-3xl mx-auto text-left bg-gray-100 p-8 rounded-lg shadow-md">
+      <div className="max-w-3xl mx-auto text-left bg-gray-100 p-8 rounded-lg shadow-md mb-10">
         <h3 className="text-2xl font-bold text-green-800 mb-2">
           Wine Subscription Service | MySQL Database Design
         </h3>
@@ -101,7 +94,7 @@ function Projects() {
         </p>
         <div className="flex justify-center space-x-6">
           <a
-            href="/mysqler.png"
+            href={`${process.env.PUBLIC_URL}/mysqler.png`}
             target="_blank"
             rel="noopener noreferrer"
             className="text-sky-500 hover:underline"
@@ -109,12 +102,12 @@ function Projects() {
             🗂️ View ER Diagram
           </a>
           <a
-            href="/Wine_Subscription_Query_Examples.p"
+            href={`${process.env.PUBLIC_URL}/Wine_Subscription_Query_Examples.pdf`}
             target="_blank"
             rel="noopener noreferrer"
             className="text-sky-500 hover:underline"
           >
-            
+            📝 View Query Examples
           </a>
         </div>
       </div>
@@ -138,7 +131,7 @@ function Projects() {
         </p>
         <div className="flex justify-center space-x-6">
           <a
-            href="/NYC Subway Delay Predictions.pptx"
+            href={`${process.env.PUBLIC_URL}/NYC Subway Delay Predictions.pptx`}
             target="_blank"
             rel="noopener noreferrer"
             className="text-sky-500 hover:underline"
@@ -146,20 +139,14 @@ function Projects() {
             📄 View Project Slides
           </a>
           <a
-            href="/NYC_Subway_Model_Performance.pdf"
+            href={`${process.env.PUBLIC_URL}/NYC_Subway_Model_Performance.pdf`}
             target="_blank"
             rel="noopener noreferrer"
             className="text-sky-500 hover:underline"
           >
-            
+            📝 Read Model Performance
           </a>
         </div>
-      </div>
-      {/* Placeholder for future projects */}
-      <div className="mt-12">
-        <p className="max-w-2xl mx-auto text-lg leading-relaxed text-gray-600">
-         
-        </p>
       </div>
     </section>
   );

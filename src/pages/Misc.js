@@ -4,7 +4,7 @@ function Misc() {
   const [articles, setArticles] = useState([]);
 
   useEffect(() => {
-    fetch('/news_data.json')
+    fetch(`${process.env.PUBLIC_URL}/news_data.json`)
       .then((response) => response.json())
       .then((data) => setArticles(data))
       .catch((error) => console.error('Error loading news data:', error));
@@ -13,7 +13,11 @@ function Misc() {
   return (
     <section className="py-16 px-6 bg-white text-center">
       <h2 className="text-3xl font-semibold text-green-800 mb-6">Market & Tech News</h2>
-      <p className="mb-8 text-lg text-gray-700">Auto-updated daily from NewsAPI.org. Based on key-word search, displays news I'm likely to be interested in. Hopefully gives you some insight into how I keep track of what's going on in the world. Updates daily! Or whatever the max usage is for my free api...</p>
+      <p className="mb-8 text-lg text-gray-700">
+        Auto-updated daily from NewsAPI.org. Based on key-word search, displays news I'm likely to be interested in. 
+        Hopefully gives you some insight into how I keep track of what's going on in the world. Updates daily! 
+        Or whatever the max usage is for my free API...
+      </p>
       
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 max-w-6xl mx-auto">
         {articles.map((article, index) => (
