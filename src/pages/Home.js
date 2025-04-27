@@ -65,20 +65,32 @@ function Home() {
         <div className="flex flex-col md:flex-row justify-center items-center gap-12">
           {/* Bachelor's Section */}
           <div className="max-w-sm">
-            <img src="/CSULBlogo.png" alt="CSULB Logo" className="h-20 mx-auto mb-4" />
+            <img
+              src={`${process.env.PUBLIC_URL}/CSULBlogo.png`}
+              alt="CSULB Logo"
+              className="h-20 mx-auto mb-4"
+            />
             <h3 className="text-xl font-bold mb-2">Bachelor of Arts in Economics</h3>
             <p className="mb-2 text-gray-700">California State University, Long Beach</p>
             <p className="mb-2 text-gray-700">Magna Cum Laude, Class of 2024</p>
             <p className="mb-2 text-gray-700">Outstanding Undergraduate in Economics Award (2024)</p>
             <div className="flex justify-center items-center gap-4 mt-4">
-              <img src="/PBK_banner.avif" alt="Phi Beta Kappa" className="h-10" />
+              <img
+                src={`${process.env.PUBLIC_URL}/PBK_banner.avif`}
+                alt="Phi Beta Kappa"
+                className="h-10"
+              />
               <span className="text-gray-700">Phi Beta Kappa Member</span>
             </div>
           </div>
 
           {/* Master's Section */}
           <div className="max-w-sm">
-            <img src="/calpolylogo.jpg" alt="Cal Poly Logo" className="h-20 mx-auto mb-4" />
+            <img
+              src={`${process.env.PUBLIC_URL}/calpolylogo.jpg`}
+              alt="Cal Poly Logo"
+              className="h-20 mx-auto mb-4"
+            />
             <h3 className="text-xl font-bold mb-2">Master of Science in Business Analytics</h3>
             <p className="mb-2 text-gray-700">California Polytechnic State University, San Luis Obispo</p>
             <p className="mb-2 text-gray-700">Expected Graduation: 2025</p>

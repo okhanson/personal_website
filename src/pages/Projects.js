@@ -27,7 +27,7 @@ function Projects() {
             rel="noopener noreferrer"
             className="text-sky-500 hover:underline"
           >
-            📄 View Project Slides
+            
           </a>
           <a
             href={`${process.env.PUBLIC_URL}/Claritas_RAG_Model_Summary.pdf`}
@@ -35,7 +35,7 @@ function Projects() {
             rel="noopener noreferrer"
             className="text-sky-500 hover:underline"
           >
-            📝 Read Model Summary
+            
           </a>
         </div>
       </div>
@@ -63,7 +63,7 @@ function Projects() {
             rel="noopener noreferrer"
             className="text-sky-500 hover:underline"
           >
-            📄 View Project Slides
+            View Project Slides
           </a>
           <a
             href={`${process.env.PUBLIC_URL}/F5_Churn_Model_Results.pdf`}
@@ -71,7 +71,7 @@ function Projects() {
             rel="noopener noreferrer"
             className="text-sky-500 hover:underline"
           >
-            📝 Read Model Results
+            
           </a>
         </div>
       </div>
@@ -99,7 +99,7 @@ function Projects() {
             rel="noopener noreferrer"
             className="text-sky-500 hover:underline"
           >
-            🗂️ View ER Diagram
+            View ER Diagram
           </a>
           <a
             href={`${process.env.PUBLIC_URL}/Wine_Subscription_Query_Examples.pdf`}
@@ -107,7 +107,7 @@ function Projects() {
             rel="noopener noreferrer"
             className="text-sky-500 hover:underline"
           >
-            📝 View Query Examples
+            
           </a>
         </div>
       </div>
@@ -136,7 +136,7 @@ function Projects() {
             rel="noopener noreferrer"
             className="text-sky-500 hover:underline"
           >
-            📄 View Project Slides
+            View Project Slides
           </a>
           <a
             href={`${process.env.PUBLIC_URL}/NYC_Subway_Model_Performance.pdf`}
@@ -144,7 +144,7 @@ function Projects() {
             rel="noopener noreferrer"
             className="text-sky-500 hover:underline"
           >
-            📝 Read Model Performance
+            
           </a>
         </div>
       </div>
