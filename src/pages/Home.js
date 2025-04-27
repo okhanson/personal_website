@@ -34,9 +34,9 @@ function Home() {
       <section id="about" className="py-16 px-6 text-center">
         <h2 className="text-3xl font-semibold text-green-800 mb-6">About Me</h2>
         <img
-          src="/IMG_7823.jpg"
-          alt="Owen Hanson"
-          className="max-w-[150px] rounded-full mx-auto mb-6 shadow-lg object-cover aspect-square"
+        src={`${process.env.PUBLIC_URL}/IMG_7823.jpg`}
+        alt="Owen Hanson"
+        className="max-w-[150px] rounded-full mx-auto mb-6 shadow-lg object-cover aspect-square"
         />
         <p className="max-w-2xl mx-auto text-lg leading-relaxed">
           I'm currently a Master of Science in Business Analytics student at Cal Poly, San Luis Obispo.
@@ -48,13 +48,13 @@ function Home() {
       {/* SKILLS SECTION */}
       <section id="skills" className="py-16 px-6 bg-gray-100 text-center">
         <div className="flex flex-wrap justify-center items-center gap-8">
-          <img src={`${process.env.PUBLIC_URL}/pythonlogo.png`} alt="Python" />
-          <img src="/Rlogo.png" alt="R" className="h-12 w-auto" />
-          <img src="/sqllogo.png" alt="SQL" className="h-12 w-auto" />
-          <img src="/mysqllogo.png" alt="MySQL" className="h-12 w-auto" />
-          <img src="/awslogo.png" alt="AWS" className="h-12 w-auto" />
-          <img src="/scikitlearnlogo.png" alt="Scikit Learn" className="h-12 w-auto" />
-          <img src="/excel logo.png" alt="Excel" className="h-12 w-auto" />
+            <img src={`${process.env.PUBLIC_URL}/pythonlogo.png`} alt="Python" className="h-12 w-auto" />
+            <img src={`${process.env.PUBLIC_URL}/Rlogo.png`} alt="R" className="h-12 w-auto" />
+            <img src={`${process.env.PUBLIC_URL}/sqllogo.png`} alt="SQL" className="h-12 w-auto" />
+            <img src={`${process.env.PUBLIC_URL}/mysqllogo.png`} alt="MySQL" className="h-12 w-auto" />
+            <img src={`${process.env.PUBLIC_URL}/awslogo.png`} alt="AWS" className="h-12 w-auto" />
+            <img src={`${process.env.PUBLIC_URL}/scikitlearnlogo.png`} alt="Scikit Learn" className="h-12 w-auto" />
+            <img src={`${process.env.PUBLIC_URL}/excel logo.png`} alt="Excel" className="h-12 w-auto" />
         </div>
       </section>
 
