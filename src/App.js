@@ -5,12 +5,12 @@ import './App.css';
 // Import pages
 import Home from './pages/Home';
 import Projects from './pages/Projects';
-import Blog from './pages/Blog'         
-import Misc from './pages/Misc';  
+import Blog from './pages/Blog';
+import Misc from './pages/Misc';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/personal_website">  {/* ✅ Added basename for GitHub Pages */}
       <div className="min-h-screen bg-gray-50 font-sans">
         {/* NAVBAR */}
         <nav className="bg-white shadow-md fixed w-full z-10">
@@ -25,7 +25,7 @@ function App() {
                 <Link to="/" className="text-gray-700 hover:text-green-800 transition">Home</Link>
                 <Link to="/projects" className="text-gray-700 hover:text-green-800 transition">Projects</Link>
                 <Link to="/blog" className="text-gray-700 hover:text-green-800 transition">Blog</Link>
-                <Link to="/misc" className="text-gray-700 hover:text-green-800 transition">Misc</Link>                
+                <Link to="/misc" className="text-gray-700 hover:text-green-800 transition">Misc</Link>
               </div>
             </div>
           </div>
@@ -35,8 +35,8 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/projects" element={<Projects />} />
-            <Route path="/Blog" element={<Blog />} /> 
-            <Route path="/Misc" element={<Misc />} />             
+            <Route path="/blog" element={<Blog />} />        {/* ✅ Made lowercase for consistency */}
+            <Route path="/misc" element={<Misc />} />        {/* ✅ Made lowercase for consistency */}
           </Routes>
         </div>
       </div>
