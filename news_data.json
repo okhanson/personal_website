@@ -2,66 +2,79 @@
     {
         "source": {
             "id": null,
-            "name": "Unixmen.com"
+            "name": "The Daily Hodl"
         },
-        "author": "Josh Njiruh",
-        "title": "Resolving ModuleNotFoundError: No Module Named \u2018numpy\u2019",
-        "description": "When you encounter the error ModuleNotFoundError: No module named \u2018numpy\u2019 on a Linux system, it means Python cannot find the NumPy package, which is one of the most fundamental libraries for scientific computing in Python. Here\u2019s a comprehensive guide to reso\u2026",
-        "url": "https://www.unixmen.com/resolving-modulenotfounderror-no-module-named-numpy/",
-        "urlToImage": "https://www.unixmen.com/wp-content/uploads/2025/04/No-Module-Named-Numpy-Error-Solution.jpg",
-        "publishedAt": "2025-04-26T16:27:06Z",
-        "content": "When you encounter the error ModuleNotFoundError: No module named \u2018numpy\u2019 on a Linux system, it means Python cannot find the NumPy package, which is one of the most fundamental libraries for scientif\u2026 [+2855 chars]"
+        "author": "Mehron Rokhy",
+        "title": "Venture Capital Firm Invests ~$50,000,000 in Solana-Based Decentralized AI Project: Report",
+        "description": "A venture capital giant is reportedly investing tens of millions of dollars into a Solana (SOL)-based decentralized artificial intelligence (AI) project. Venture capital firm Paradigm is investing close to $50 million into AI startup Nous Research, a firm tha\u2026",
+        "url": "https://dailyhodl.com/2025/04/27/venture-capital-firm-invests-50000000-in-solana-based-decentralized-ai-project-report/",
+        "urlToImage": "https://dailyhodl.com/wp-content/uploads/2024/11/Says-AI-Altcoin-4000.jpg",
+        "publishedAt": "2025-04-27T20:00:20Z",
+        "content": "A venture capital giant is reportedly investing tens of millions of dollars into a Solana (SOL)-based decentralized artificial intelligence (AI) project.\r\nVenture capital firm Paradigm is investing c\u2026 [+1712 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Futurism"
+            "name": "Seclists.org"
         },
-        "author": "Joe Wilkins",
-        "title": "Former OpenAI Staffers Implore Courts to Block What It's Trying to Do",
-        "description": "Nearly ten years ago, tech tycoons Sam Altman and Elon Musk launched OpenAI with a promise to use technology to further humanity. But as the years passed and the market surrounding artificial intelligence grew, so to did the ambitions of OpenAI's executives. \u2026",
-        "url": "https://futurism.com/openai-staffers-court-nonprofit",
-        "urlToImage": "https://wordpress-assets.futurism.com/2025/04/openai-staffers-court-nonprofit.jpg",
-        "publishedAt": "2025-04-26T15:15:55Z",
-        "content": "Nearly ten years ago, tech tycoons Sam Altman and Elon Musk launched OpenAI with a promise to develop AI tech to further the good of humanity.\r\nBut as the years passed and the market surrounding arti\u2026 [+3219 chars]"
+        "author": null,
+        "title": "Re: outages list badly broken, flooding messages",
+        "description": "Posted by Mike Hammett via NANOG on Apr 27Meaning fixing Puck or the divorce of Outages from Puck?\n\n-----\nMike Hammett\nIntelligent Computing Solutions\nhttp://www.ics-il.com\n\nMidwest-IX\nhttp://www.midwest-ix.com\n\n----- Original Message -----\nFrom: \"virendra ro\u2026",
+        "url": "https://seclists.org/nanog/2025/Apr/204",
+        "urlToImage": "https://seclists.org/images/nanog-img.png",
+        "publishedAt": "2025-04-27T19:04:06Z",
+        "content": "nanog\r\nmailing list archives\r\nFrom: Mike Hammett via NANOG &lt;nanog () lists nanog org&gt;Date: Sun, 27 Apr 2025 14:03:23 -0500 (CDT)\r\nMeaning fixing Puck or the divorce of Outages from Puck?\r\n-----\u2026 [+3653 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Yahoo Entertainment"
+            "name": "Slashdot.org"
         },
-        "author": "Fahad Saleem",
-        "title": "Analyst on NVIDIA (NVDA): \u2018Everyone Is Confirming Demand is Crazy\u2019",
-        "description": "We recently published a list of Top 10 Stocks to Watch Ahead of May. In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA...",
-        "url": "https://finance.yahoo.com/news/analyst-nvidia-nvda-everyone-confirming-142945502.html",
-        "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/e55fc66f4bd07df6fd1bc80caf1f05ee",
-        "publishedAt": "2025-04-26T14:29:45Z",
-        "content": "We recently published a list of Top 10 Stocks to Watch Ahead of May. In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) stands against other top stocks to watch ah\u2026 [+6977 chars]"
+        "author": "EditorDavid",
+        "title": "Google's DeepMind UK Team Reportedly Seeks to Unionize",
+        "description": "\"Google's DeepMind UK team reportedly seeks to unionize,\" reports TechCrunch:\n\n\n\nAround 300 London-based members of Google's AI-focused DeepMind team are seeking to unionize with the Communication Workers Union, according to a Financial Times report that cite\u2026",
+        "url": "https://tech.slashdot.org/story/25/04/27/1830241/googles-deepmind-uk-team-reportedly-seeks-to-unionize",
+        "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+        "publishedAt": "2025-04-27T18:34:00Z",
+        "content": "\"Google's DeepMind UK team reportedly seeks to unionize,\" reports TechCrunch:\r\nAround 300 London-based members of Google's AI-focused DeepMind team are seeking to unionize with the Communication Work\u2026 [+816 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Tom's Hardware UK"
+            "name": "Pypi.org"
         },
-        "author": "Jowi Morales",
-        "title": "Elon Musk\u2019s Nvidia-powered Colossus supercomputer faces pollution allegations from under\u2010reported power generators",
-        "description": "xAI's Colossus supercomputer at Memphis, Tennessee, is accused of spewing excess pollution to get the power it needs to run all its GPUs.",
-        "url": "https://www.tomshardware.com/tech-industry/supercomputers/elon-musks-nvidia-powered-colossus-supercomputer-faces-pollution-allegations-from-under-reported-power-generators",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/28r7hQDTtzpMAZZDD4EDRc.jpg",
-        "publishedAt": "2025-04-26T14:11:21Z",
-        "content": "Elon Musk fired up the Colossus Supercomputer in July last year, which used 100,000 NvidiaH100 GPUs on a single fabric. However, the site could only draw 7 MW at its launch, which could only power 4%\u2026 [+3821 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Eddelbuettel.com"
-        },
-        "author": "Dirk Eddelbuettel",
-        "title": "Dirk Eddelbuettel: RcppArmadillo 14.4.2-1 on CRAN: Another Small Upstream Fix",
-        "description": "Armadillo is a powerful\nand expressive C++ template library for linear algebra and scientific\ncomputing. It aims towards a good balance between speed and ease of use,\nhas a syntax deliberately close to Matlab, and is useful for algorithm\ndevelopment directly \u2026",
-        "url": "http://dirk.eddelbuettel.com/blog/2025/04/26/",
+        "author": "sage-support@googlegroups.com",
+        "title": "passagemath-macaulay2 10.5.27",
+        "description": "passagemath: Computing in commutative algebra, algebraic geometry and related fields with Macaulay2",
+        "url": "https://pypi.org/project/passagemath-macaulay2/10.5.27/",
         "urlToImage": null,
-        "publishedAt": "2025-04-26T13:33:00Z",
-        "content": "Armadillo is a powerful\r\nand expressive C++ template library for linear algebra and scientific\r\ncomputing. It aims towards a good balance between speed and ease of use,\r\nhas a syntax deliberately clo\u2026 [+1342 chars]"
+        "publishedAt": "2025-04-27T17:15:33Z",
+        "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Zetier.com"
+        },
+        "author": "skramace",
+        "title": "Did 5G Kill the IMSI Catcher?",
+        "description": "Understand the mechanics, risks, and the future of IMSI catching (a.k.a. stealing your cellular ID) in 2025. Read our primer on this niche form of hacking.",
+        "url": "https://zetier.com/5g-imsi-catcher/",
+        "urlToImage": "https://zetier.com/wp-content/uploads/2025/04/Zetier-IMSI-Catcher-Thumbnail.png",
+        "publishedAt": "2025-04-27T16:27:57Z",
+        "content": "You dial into your Zoom meeting while sitting on a moving train. Your mobile device (i.e., User Equipment, UE) must seamlessly switch towers as you go in and out of range. This concept, called mobili\u2026 [+8588 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Daily Signal"
+        },
+        "author": "Rob Bluey",
+        "title": "New Secure Messaging Platform Offers Quantum-Resistant Defense Against Chinese Cyber Threats",
+        "description": "A communications platform called Titanium Secure is positioning itself as a quantum-resistant defense against growing cyber threats from China and data harvesting by Big Tech... Read More\nThe post New Secure Messaging Platform Offers Quantum-Resistant Defense\u2026",
+        "url": "https://www.dailysignal.com/2025/04/27/new-secure-messaging-platform-offers-quantum-resistant-defense-against-chinese-cyber-threats/",
+        "urlToImage": "https://www.dailysignal.com/wp-content/uploads/2025/04/250427_QuantumWarfare.jpg",
+        "publishedAt": "2025-04-27T16:15:00Z",
+        "content": "A communications platform called Titanium Secure is positioning itself as a quantum-resistant defense against growing cyber threats from China and data harvesting by Big Tech companies.\r\n\u201cWe saw a ne\u2026 [+1831 chars]"
     }
 ]
