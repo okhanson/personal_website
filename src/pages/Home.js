@@ -41,7 +41,7 @@ function Home() {
         <p className="max-w-2xl mx-auto text-lg leading-relaxed">
           I'm currently a Master of Science in Business Analytics student at Cal Poly, San Luis Obispo.
           I’m passionate about using data to influence big business decisions — especially in aerospace,
-          consulting, and fintech spaces. Outside of work, I love exploring California and staying active outdoors!
+          consulting, cloud platform, and fintech spaces. Outside of work, I love exploring California and staying active outdoors!
         </p>
       </section>
 
