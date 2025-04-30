@@ -2,79 +2,79 @@
     {
         "source": {
             "id": null,
+            "name": "Acm.org"
+        },
+        "author": "Yufeng Gu, Arun Subramaniyan, Tim Dunn, Alireza Khadem, Kuan-Yu Chen, Somnath Paul, Mohammad Vasimuddin, Sanchit Misra, David Blaauw, Satish Narayanasamy, Reetuparna Das",
+        "title": "GenDP: A Framework of Dynamic Programming Acceleration for Genome\u00a0Sequencing Analysis",
+        "description": "The proposed GenDP framework of dynamic programming acceleration for genome sequencing analysis supports multiple DP kernels.",
+        "url": "http://cacm.acm.org/research-highlights/gendp-a-framework-of-dynamic-programming-acceleration-for-genome-sequencing-analysis/",
+        "urlToImage": null,
+        "publishedAt": "2025-04-29T17:44:58Z",
+        "content": "Genome sequencing, a key component of precision health, is necessary for early detection of cancer, autism, infectious diseases (such as COVID-19), and genetic diseases. With the innovation in genome\u2026 [+37229 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Pypi.org"
+        },
+        "author": "cirq-dev@googlegroups.com",
+        "title": "cirq-google 1.6.0.dev20250429173645",
+        "description": "The Cirq module that provides tools and access to the Google Quantum Computing Service",
+        "url": "https://pypi.org/project/cirq-google/1.6.0.dev20250429173645/",
+        "urlToImage": null,
+        "publishedAt": "2025-04-29T17:36:58Z",
+        "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Arxiv.org"
+        },
+        "author": "samaysharma",
+        "title": "Beyond Performance: Measuring the Environmental Impact of Analytical Databases",
+        "description": "The exponential growth of data is making query processing increasingly critical for modern computing infrastructure, yet the environmental impact of database operations remains poorly understood and largely overlooked. This paper presents ATLAS, a comprehensi\u2026",
+        "url": "https://arxiv.org/abs/2504.18980",
+        "urlToImage": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "publishedAt": "2025-04-29T17:35:48Z",
+        "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\r\nBoth individuals and organizations that work with arXivLabs have embraced and acce\u2026 [+257 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Uxdesign.cc"
+        },
+        "author": "Estefan\u00eda Monta\u00f1a Buitrago",
+        "title": "Riding the wave: from human-centered design to human-centered AI",
+        "description": "As many tech professionals anticipate the worst-case scenario (AI world-wide domination and mass unemployment, yep, I said it), I cannot help to think we\u2019ve already been here before. AI might be\u2026",
+        "url": "https://uxdesign.cc/riding-the-wave-from-human-centered-design-to-human-centered-ai-5ab0f3b321c9",
+        "urlToImage": "https://miro.medium.com/v2/resize:fit:1200/1*4R0lgNZ7HYZ-38Ai9XOang.png",
+        "publishedAt": "2025-04-29T17:30:26Z",
+        "content": "Its best to think of AI in terms of its capabilities\r\nThink of AI as a sort of Swiss knife. Its not a single tool. Its a system that contains many different tools/capabilities, and it's up to us to c\u2026 [+11839 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Ibm.com"
+        },
+        "author": "shallow-mind",
+        "title": "Bamba: An open-source LLM that crosses a transformer with an SSM",
+        "description": "In collaboration with CMU, Princeton, and University of Illinois, IBM Research built an open-source LLM that combines the expressive power of a transformer with the runtime speed of a state-space model. Key features will soon be added to IBM Granite 4.0.",
+        "url": "https://research.ibm.com/blog/bamba-ssm-transformer-model",
+        "urlToImage": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2FBamba_c84bcc15bb.png&w=1200&q=85",
+        "publishedAt": "2025-04-29T17:24:29Z",
+        "content": "The transformer architecture behind todays large language models has shown an uncanny ability to generate human-like text. Part of its effectiveness comes from its self-attention mechanism, which all\u2026 [+6617 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "GlobeNewswire"
         },
-        "author": "HR Miner",
-        "title": "More than 9 million users choose HR Miner to earn cryptocurrency every day - how they use HR Miner in 2025",
-        "description": "London, UK, April 28, 2025 (GLOBE NEWSWIRE) -- In 2025, over\u00a09 million people will\u00a0earn cryptocurrency rewards every day \u2014 not by trading, not by flipping NFTs, or by staking.",
-        "url": "https://www.globenewswire.com/news-release/2025/04/28/3069605/0/en/More-than-9-million-users-choose-HR-Miner-to-earn-cryptocurrency-every-day-how-they-use-HR-Miner-in-2025.html",
-        "urlToImage": "https://ml.globenewswire.com/Resource/Download/dfc80f47-c4a8-4d17-865d-102799211d7f",
-        "publishedAt": "2025-04-28T19:45:00Z",
-        "content": "London, UK, April 28, 2025 (GLOBE NEWSWIRE) -- In 2025, over\u00a09 million people will\u00a0earn cryptocurrency rewards every day not by trading, not by flipping NFTs, or by staking.\r\nThey achieve this throug\u2026 [+6134 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Securityaffairs.com"
-        },
-        "author": "Pierluigi Paganini",
-        "title": "Earth Kurma APT is actively targeting government and telecommunications orgs in Southeast Asia",
-        "description": "Earth Kurma APT carried out a sophisticated campaign against government and telecommunications sectors in Southeast Asia. Trend Research exposed the Earth Kurma APT campaign targeting Southeast Asia\u2019s government and telecom sectors. Threat actors use custom m\u2026",
-        "url": "https://securityaffairs.com/177125/apt/earth-kurma-apt-is-actively-targeting-government-and-telecommunications-orgs-in-southeast-asia.html",
-        "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/04/image-56.png",
-        "publishedAt": "2025-04-28T19:44:41Z",
-        "content": "Earth Kurma APT is actively targeting government and telecommunications orgs in Southeast Asia\r\n\u00a0|\u00a0A large-scale phishing campaign targets WordPress WooCommerce users\r\n\u00a0|\u00a0PoC rootkit Curing evades tr\u2026 [+159068 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "VentureBeat"
-        },
-        "author": "Ben Dickson",
-        "title": "30 seconds vs. 3: The d1 reasoning framework that\u2019s slashing AI response times",
-        "description": "d1 framework changes boosts diffusion LLMs with novel reinforcement learning, unlocking efficient, problem-solving AI possibilities.",
-        "url": "https://venturebeat.com/ai/30-seconds-vs-3-the-d1-reasoning-framework-thats-slashing-ai-response-times/",
-        "urlToImage": "https://venturebeat.com/wp-content/uploads/2025/04/Robot-scrabble.webp?w=1024?w=1200&strip=all",
-        "publishedAt": "2025-04-28T19:31:21Z",
-        "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nResearchers from UCLA and Meta AI have introduced d1, a novel framework\u2026 [+7787 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "GlobeNewswire"
-        },
-        "author": "JA Mining",
-        "title": "JA MINING: BTC & XRP Enthusiasts Explore Potential Rewards Through Bitcoin Mining",
-        "description": "London, UK, April 28, 2025 (GLOBE NEWSWIRE) -- Bitcoin (BTC) and Ripple (XRP) have both shown strong momentum in the past 24 hours. BTC prices stabilized above $94,000, 24-hour trading volume exceeded $20.5 billion, and net inflows of spot ETF funds hit a new\u2026",
-        "url": "https://www.globenewswire.com/news-release/2025/04/28/3069601/0/en/JA-MINING-BTC-XRP-Enthusiasts-Explore-Potential-Rewards-Through-Bitcoin-Mining.html",
-        "urlToImage": "https://ml.globenewswire.com/Resource/Download/0fd8f191-d70d-46cd-a753-3ae88c2737f4",
-        "publishedAt": "2025-04-28T19:30:00Z",
-        "content": "London, UK, April 28, 2025 (GLOBE NEWSWIRE) -- Bitcoin (BTC) and Ripple (XRP) have both shown strong momentum in the past 24 hours. BTC prices stabilized above $94,000, 24-hour trading volume exceede\u2026 [+3849 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Brent Gleeson, Contributor, \n Brent Gleeson, Contributor\n https://www.forbes.com/sites/brentgleeson/",
-        "title": "How Business Leaders Are Unlocking AI\u2019s Full Potential",
-        "description": "Companies are projected to spend over $1 trillion on AI initiatives in the coming years, according to Goldman Sachs.",
-        "url": "https://www.forbes.com/sites/brentgleeson/2025/04/28/how-business-leaders-are-unlocking-ais-full-potential/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/680fd3edf9995db2ed5f1ae3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2025-04-28T19:19:02Z",
-        "content": "Historically, the development of artificial intelligence (AI) was controlled by a small circle of pioneering research institutionsthose with the financial muscle and computational power to experiment\u2026 [+5266 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Digital Journal"
-        },
-        "author": "Mae Cornes",
-        "title": "Inside the mind of a fintech innovator: Tarafdar\u2019s vision for AI-driven developer productivity",
-        "description": "Rajarshi Tarafdar works at the intersection of artificial intelligence, cloud computing and cybersecurity\nThe post Inside the mind of a fintech innovator: Tarafdar\u2019s vision for AI-driven developer productivity appeared first on Digital Journal.",
-        "url": "https://www.digitaljournal.com/tech-science/inside-the-mind-of-a-fintech-innovator-tarafdars-vision-for-ai-driven-developer-productivity/article",
-        "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/04/Untitled-image-39.png",
-        "publishedAt": "2025-04-28T19:11:32Z",
-        "content": "Photo courtesy of Rajarshi Tarafdar\r\nOpinions expressed by Digital Journal contributors are their own.\r\nRajarshi Tarafdar works at the intersection of artificial intelligence, cloud computing and cyb\u2026 [+4766 chars]"
+        "author": "PairMiner",
+        "title": "Want to make money in 2025? It\u2019s super easy! Start mining with PairMiner \u2014 no hassle, daily payouts, and you can earn while you sleep!",
+        "description": "2025 Crypto Opportunities: Passive Income and Profitable Growth Await. 2025 Crypto Opportunities: Passive Income and Profitable Growth Await.",
+        "url": "https://www.globenewswire.com/news-release/2025/04/29/3070675/0/en/Want-to-make-money-in-2025-It-s-super-easy-Start-mining-with-PairMiner-no-hassle-daily-payouts-and-you-can-earn-while-you-sleep.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/1ec428d3-3898-41e8-b1b7-00e0a9f02c88",
+        "publishedAt": "2025-04-29T17:20:00Z",
+        "content": "Washington, D.C., April 29, 2025 (GLOBE NEWSWIRE) -- PAIRMiner\u00a0 A Cutting-Edge Platform Providing Mining Hashrate Services,As global demand for stable crypto yield products continues to rise, Coinbas\u2026 [+2682 chars]"
     }
 ]
