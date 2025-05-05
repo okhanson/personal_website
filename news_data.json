@@ -2,79 +2,79 @@
     {
         "source": {
             "id": null,
-            "name": "Acm.org"
+            "name": "Securityaffairs.com"
         },
-        "author": "Yufeng Gu, Arun Subramaniyan, Tim Dunn, Alireza Khadem, Kuan-Yu Chen, Somnath Paul, Mohammad Vasimuddin, Sanchit Misra, David Blaauw, Satish Narayanasamy, Reetuparna Das",
-        "title": "GenDP: A Framework of Dynamic Programming Acceleration for Genome\u00a0Sequencing Analysis",
-        "description": "The proposed GenDP framework of dynamic programming acceleration for genome sequencing analysis supports multiple DP kernels.",
-        "url": "http://cacm.acm.org/research-highlights/gendp-a-framework-of-dynamic-programming-acceleration-for-genome-sequencing-analysis/",
-        "urlToImage": null,
-        "publishedAt": "2025-04-29T17:44:58Z",
-        "content": "Genome sequencing, a key component of precision health, is necessary for early detection of cancer, autism, infectious diseases (such as COVID-19), and genetic diseases. With the innovation in genome\u2026 [+37229 chars]"
+        "author": "Pierluigi Paganini",
+        "title": "Malicious Go Modules designed to wipe Linux systems",
+        "description": "Researchers found 3 malicious Go modules with hidden code that can download payloads to wipe a Linux system\u2019s main disk, making it unbootable. The malicious modules contain obfuscated code to fetch next-stage payloads that can wipe a Linux system\u2019s primary di\u2026",
+        "url": "https://securityaffairs.com/177411/malware/malicious-go-modules-designed-to-wipe-linux-systems.html",
+        "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-6.png",
+        "publishedAt": "2025-05-04T15:09:05Z",
+        "content": "Malicious Go Modules designed to wipe Linux systems\r\n\u00a0|\u00a0SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 44\r\n\u00a0|\u00a0Security Affairs newsletter Round 522 by Pierluigi Paganini INTERNATIONAL EDITION\r\n\u00a0|\u00a0Rhysida \u2026 [+161040 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Pypi.org"
         },
-        "author": "cirq-dev@googlegroups.com",
-        "title": "cirq-google 1.6.0.dev20250429173645",
-        "description": "The Cirq module that provides tools and access to the Google Quantum Computing Service",
-        "url": "https://pypi.org/project/cirq-google/1.6.0.dev20250429173645/",
+        "author": "chao.brain@qq.com",
+        "title": "saiunit 0.0.11",
+        "description": "Enabling Unit-aware Computations for AI-driven Scientific Computing.",
+        "url": "https://pypi.org/project/saiunit/0.0.11/",
         "urlToImage": null,
-        "publishedAt": "2025-04-29T17:36:58Z",
+        "publishedAt": "2025-05-04T14:46:56Z",
         "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Arxiv.org"
+            "name": "Securityaffairs.com"
         },
-        "author": "samaysharma",
-        "title": "Beyond Performance: Measuring the Environmental Impact of Analytical Databases",
-        "description": "The exponential growth of data is making query processing increasingly critical for modern computing infrastructure, yet the environmental impact of database operations remains poorly understood and largely overlooked. This paper presents ATLAS, a comprehensi\u2026",
-        "url": "https://arxiv.org/abs/2504.18980",
-        "urlToImage": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "publishedAt": "2025-04-29T17:35:48Z",
-        "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\r\nBoth individuals and organizations that work with arXivLabs have embraced and acce\u2026 [+257 chars]"
+        "author": "Pierluigi Paganini",
+        "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 44",
+        "description": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape io_uring Is Back, This Time as a Rootkit\u00a0\u00a0 I StealC You: Tracking the Rapid Changes To StealC Interesting WordPress Malware D\u2026",
+        "url": "https://securityaffairs.com/177401/malware/security-affairs-malware-newsletter-round-44.html",
+        "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
+        "publishedAt": "2025-05-04T14:18:11Z",
+        "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 44\r\n\u00a0|\u00a0Security Affairs newsletter Round 522 by Pierluigi Paganini INTERNATIONAL EDITION\r\n\u00a0|\u00a0Rhysida Ransomware gang claims the hack of the Government of Per\u2026 [+160984 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Paul Sawers",
+        "title": "Backstage access: Spotify\u2019s dev tools side-hustle is growing legs | TechCrunch",
+        "description": "Backstage helps companies build customized developer portals, bringing order to their infrastructure by combining all their tooling.",
+        "url": "https://techcrunch.com/2025/05/04/backstage-access-spotifys-dev-tools-side-hustle-is-growing-legs/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/Tyson-Singer-1-e1744729802703.jpg?w=960",
+        "publishedAt": "2025-05-04T14:00:58Z",
+        "content": "Spotify generates the vast bulk of its income from ads and subscriptions, but for the past few years the music-streaming giant has also been quietly building out a developer tooling business. Backsta\u2026 [+5867 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Uxdesign.cc"
+            "name": "Yahoo Entertainment"
         },
-        "author": "Estefan\u00eda Monta\u00f1a Buitrago",
-        "title": "Riding the wave: from human-centered design to human-centered AI",
-        "description": "As many tech professionals anticipate the worst-case scenario (AI world-wide domination and mass unemployment, yep, I said it), I cannot help to think we\u2019ve already been here before. AI might be\u2026",
-        "url": "https://uxdesign.cc/riding-the-wave-from-human-centered-design-to-human-centered-ai-5ab0f3b321c9",
-        "urlToImage": "https://miro.medium.com/v2/resize:fit:1200/1*4R0lgNZ7HYZ-38Ai9XOang.png",
-        "publishedAt": "2025-04-29T17:30:26Z",
-        "content": "Its best to think of AI in terms of its capabilities\r\nThink of AI as a sort of Swiss knife. Its not a single tool. Its a system that contains many different tools/capabilities, and it's up to us to c\u2026 [+11839 chars]"
+        "author": "Jeran Wittenstein and Ryan Vlastelica",
+        "title": "Big Tech earnings defy fears of \u2018worst-case scenario\u2019 for stocks",
+        "description": "(Bloomberg) -- Investors in the US technology behemoths that dominate the S&P 500 Index are breathing a sigh of relief as last week\u2019s earnings reports from...",
+        "url": "https://finance.yahoo.com/news/big-tech-earnings-defy-fears-130000246.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/qAbY0yxk3Yc45VIwbn5DrA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-05/bd05dfb0-28f6-11f0-9aa6-d9b435841188",
+        "publishedAt": "2025-05-04T13:00:00Z",
+        "content": "(Bloomberg) Investors in the US technology behemoths that dominate the S&amp;P 500 Index are breathing a sigh of relief as last weeks earnings reports from the group show their outlooks remain mostly\u2026 [+4707 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Ibm.com"
+            "name": "WebProNews"
         },
-        "author": "shallow-mind",
-        "title": "Bamba: An open-source LLM that crosses a transformer with an SSM",
-        "description": "In collaboration with CMU, Princeton, and University of Illinois, IBM Research built an open-source LLM that combines the expressive power of a transformer with the runtime speed of a state-space model. Key features will soon be added to IBM Granite 4.0.",
-        "url": "https://research.ibm.com/blog/bamba-ssm-transformer-model",
-        "urlToImage": "https://research.ibm.com/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2FBamba_c84bcc15bb.png&w=1200&q=85",
-        "publishedAt": "2025-04-29T17:24:29Z",
-        "content": "The transformer architecture behind todays large language models has shown an uncanny ability to generate human-like text. Part of its effectiveness comes from its self-attention mechanism, which all\u2026 [+6617 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "GlobeNewswire"
-        },
-        "author": "PairMiner",
-        "title": "Want to make money in 2025? It\u2019s super easy! Start mining with PairMiner \u2014 no hassle, daily payouts, and you can earn while you sleep!",
-        "description": "2025 Crypto Opportunities: Passive Income and Profitable Growth Await. 2025 Crypto Opportunities: Passive Income and Profitable Growth Await.",
-        "url": "https://www.globenewswire.com/news-release/2025/04/29/3070675/0/en/Want-to-make-money-in-2025-It-s-super-easy-Start-mining-with-PairMiner-no-hassle-daily-payouts-and-you-can-earn-while-you-sleep.html",
-        "urlToImage": "https://ml.globenewswire.com/Resource/Download/1ec428d3-3898-41e8-b1b7-00e0a9f02c88",
-        "publishedAt": "2025-04-29T17:20:00Z",
-        "content": "Washington, D.C., April 29, 2025 (GLOBE NEWSWIRE) -- PAIRMiner\u00a0 A Cutting-Edge Platform Providing Mining Hashrate Services,As global demand for stable crypto yield products continues to rise, Coinbas\u2026 [+2682 chars]"
+        "author": "John Overbee",
+        "title": "How Tariffs and Trade Tensions Are Shaping Amazon\u2019s Market Power",
+        "description": "Amazon may gain market share as tariffs and trade wars challenge smaller retailers, according to analysts. The company\u2019s CEO warns that prices could rise for consumers due to these tariffs. Despite the uncertainty, analysts remain optimistic about Amazon's st\u2026",
+        "url": "https://www.webpronews.com/how-tariffs-and-trade-tensions-are-shaping-amazons-market-power/",
+        "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/05/Amazon-China-Tariffs.jpg",
+        "publishedAt": "2025-05-04T12:28:52Z",
+        "content": "As trade tensions reverberate across global supply chains, few companies sit closer to the pulse of consumer sentiment than Amazon.com Inc. A volley of tariffsacross billions of dollars in Chinese im\u2026 [+5033 chars]"
     }
 ]
