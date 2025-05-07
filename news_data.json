@@ -2,79 +2,79 @@
     {
         "source": {
             "id": null,
-            "name": "Securityaffairs.com"
+            "name": "Forbes"
         },
-        "author": "Pierluigi Paganini",
-        "title": "Malicious Go Modules designed to wipe Linux systems",
-        "description": "Researchers found 3 malicious Go modules with hidden code that can download payloads to wipe a Linux system\u2019s main disk, making it unbootable. The malicious modules contain obfuscated code to fetch next-stage payloads that can wipe a Linux system\u2019s primary di\u2026",
-        "url": "https://securityaffairs.com/177411/malware/malicious-go-modules-designed-to-wipe-linux-systems.html",
-        "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/05/image-6.png",
-        "publishedAt": "2025-05-04T15:09:05Z",
-        "content": "Malicious Go Modules designed to wipe Linux systems\r\n\u00a0|\u00a0SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 44\r\n\u00a0|\u00a0Security Affairs newsletter Round 522 by Pierluigi Paganini INTERNATIONAL EDITION\r\n\u00a0|\u00a0Rhysida \u2026 [+161040 chars]"
+        "author": "Expert Panel\u00ae, Forbes Councils Member, \n Expert Panel\u00ae, Forbes Councils Member\n https://www.forbes.com/councils/forbestechcouncil/people/expertpanel/",
+        "title": "Barriers To Effective Omnichannel Retail (And How To Solve Them)",
+        "description": "It\u2019s not enough for businesses to simply be everywhere\u2014customers expect high-quality, seamless and personalized experiences all the time, no matter where they are.",
+        "url": "https://www.forbes.com/councils/forbestechcouncil/2025/05/06/barriers-to-effective-omnichannel-retail-and-how-to-solve-them/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66169e234148d9ea99fe14b1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-05-06T17:15:19Z",
+        "content": "getty\r\nTodays businesses must be prepared to meet customers where they are, whether theyre in the store, shopping online, accessing a mobile app or browsing social media. But its not enough for busin\u2026 [+9160 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Pypi.org"
+            "name": "Science Daily"
         },
-        "author": "chao.brain@qq.com",
-        "title": "saiunit 0.0.11",
-        "description": "Enabling Unit-aware Computations for AI-driven Scientific Computing.",
-        "url": "https://pypi.org/project/saiunit/0.0.11/",
+        "author": null,
+        "title": "Experimental quantum communications network",
+        "description": "Researchers recently connected their campuses with an experimental quantum communications network using two optical fibers.",
+        "url": "https://www.sciencedaily.com/releases/2025/05/250506131336.htm",
+        "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "publishedAt": "2025-05-06T17:13:36Z",
+        "content": "Researchers at the University of Rochester and Rochester Institute of Technology recently connected their campuses with an experimental quantum communications network using two optical fibers. In a n\u2026 [+2827 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Bytenite.com"
+        },
+        "author": "fabcairo",
+        "title": "Show HN: ByteNite \u2013 Distributed compute meets serverless for AI and data",
+        "description": "Hi HN, I\u2019m one of the creators of ByteNite (https://bytenite.com).We built it for developers running compute-heavy containerized workloads (AI, ETL, batch jobs) who are frustrated with the limitations of traditional serverless platforms: timeouts, cold starts\u2026",
+        "url": "https://docs.bytenite.com",
+        "urlToImage": "https://docs.bytenite.com/~gitbook/image?url=https%3A%2F%2F2490067614-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FhWTaF6n2ZDainV7RJ5Q9%252Fsites%252Fsite_xbtUU%252Fsocialpreview%252FaaOlUQiYb3ChJRFCgj9o%252Fdocs-social-media-preview.png%3Falt%3Dmedia%26token%3D2e38530f-7feb-4bb1-a92d-59e42d55d84c&width=1200&height=630&sign=9f9e8349&sv=2",
+        "publishedAt": "2025-05-06T17:10:58Z",
+        "content": "ByteNites serverless container platform is built for high-performance teams and developers who need fast startup times, flexible compute, and a simpler path to getting things donewithout the headache\u2026 [+3484 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hackaday"
+        },
+        "author": "Navarre Bartz",
+        "title": "Supercon 2024: A Hacker\u2019s Guide to Analog Design in a Digital World",
+        "description": "We often think of analog computing as a relic of the past, room-sized monstrosities filled with vacuum tubes doing their best to calculate Monte Carlo simulations or orbital velocities. Analog \u2026read more",
+        "url": "https://hackaday.com/2025/05/06/supercon-2024-a-hackers-guide-to-analog-design-in-a-digital-world/",
+        "urlToImage": "https://hackaday.com/wp-content/uploads/2025/04/adnani_feat.png",
+        "publishedAt": "2025-05-06T17:02:57Z",
+        "content": "We often think of analog computing as a relic of the past, room-sized monstrosities filled with vacuum tubes doing their best to calculate Monte Carlo simulations or orbital velocities. Analog isn\u2019t \u2026 [+3805 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Freerepublic.com"
+        },
+        "author": "techietory.com",
+        "title": "Installing Linux: A Step-by-Step Guide [FREEPER EXPERTS, PLEASE CRITIQUE THIS ARTICLE OR ADD YOUR OWN SUGGESTED LINKS FOR INSTALLATION OR LEARNING]",
+        "description": "ransomnote: This is just one of the countless articles and videos about installing Linux. It's written using Ubuntu as an example, but it also lists 5 popular distros (e.g., versions) of Linux in the article, and there are over 1000 different distros beyond t\u2026",
+        "url": "https://freerepublic.com/focus/f-chat/4315363/posts",
         "urlToImage": null,
-        "publishedAt": "2025-05-04T14:46:56Z",
-        "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+        "publishedAt": "2025-05-06T17:01:53Z",
+        "content": "ransomnote: This is just one of the countless articles and videos about installing Linux. It's written using Ubuntu as an example, but it also lists 5 popular distros (e.g., versions) of Linux in the\u2026 [+2708 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Securityaffairs.com"
+            "name": "XDA Developers"
         },
-        "author": "Pierluigi Paganini",
-        "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 44",
-        "description": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape io_uring Is Back, This Time as a Rootkit\u00a0\u00a0 I StealC You: Tracking the Rapid Changes To StealC Interesting WordPress Malware D\u2026",
-        "url": "https://securityaffairs.com/177401/malware/security-affairs-malware-newsletter-round-44.html",
-        "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
-        "publishedAt": "2025-05-04T14:18:11Z",
-        "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 44\r\n\u00a0|\u00a0Security Affairs newsletter Round 522 by Pierluigi Paganini INTERNATIONAL EDITION\r\n\u00a0|\u00a0Rhysida Ransomware gang claims the hack of the Government of Per\u2026 [+160984 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Paul Sawers",
-        "title": "Backstage access: Spotify\u2019s dev tools side-hustle is growing legs | TechCrunch",
-        "description": "Backstage helps companies build customized developer portals, bringing order to their infrastructure by combining all their tooling.",
-        "url": "https://techcrunch.com/2025/05/04/backstage-access-spotifys-dev-tools-side-hustle-is-growing-legs/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/Tyson-Singer-1-e1744729802703.jpg?w=960",
-        "publishedAt": "2025-05-04T14:00:58Z",
-        "content": "Spotify generates the vast bulk of its income from ads and subscriptions, but for the past few years the music-streaming giant has also been quietly building out a developer tooling business. Backsta\u2026 [+5867 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Jeran Wittenstein and Ryan Vlastelica",
-        "title": "Big Tech earnings defy fears of \u2018worst-case scenario\u2019 for stocks",
-        "description": "(Bloomberg) -- Investors in the US technology behemoths that dominate the S&P 500 Index are breathing a sigh of relief as last week\u2019s earnings reports from...",
-        "url": "https://finance.yahoo.com/news/big-tech-earnings-defy-fears-130000246.html",
-        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/qAbY0yxk3Yc45VIwbn5DrA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-05/bd05dfb0-28f6-11f0-9aa6-d9b435841188",
-        "publishedAt": "2025-05-04T13:00:00Z",
-        "content": "(Bloomberg) Investors in the US technology behemoths that dominate the S&amp;P 500 Index are breathing a sigh of relief as last weeks earnings reports from the group show their outlooks remain mostly\u2026 [+4707 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "WebProNews"
-        },
-        "author": "John Overbee",
-        "title": "How Tariffs and Trade Tensions Are Shaping Amazon\u2019s Market Power",
-        "description": "Amazon may gain market share as tariffs and trade wars challenge smaller retailers, according to analysts. The company\u2019s CEO warns that prices could rise for consumers due to these tariffs. Despite the uncertainty, analysts remain optimistic about Amazon's st\u2026",
-        "url": "https://www.webpronews.com/how-tariffs-and-trade-tensions-are-shaping-amazons-market-power/",
-        "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/05/Amazon-China-Tariffs.jpg",
-        "publishedAt": "2025-05-04T12:28:52Z",
-        "content": "As trade tensions reverberate across global supply chains, few companies sit closer to the pulse of consumer sentiment than Amazon.com Inc. A volley of tariffsacross billions of dollars in Chinese im\u2026 [+5033 chars]"
+        "author": "Ayush Pande",
+        "title": "4 reasons OpenLeaf is the best in-browser note-taker I can't live without",
+        "description": "It's perfect when you want to quickly jot down and share your notes",
+        "url": "https://www.xda-developers.com/openleaf-is-the-best-in-browser-note-taker/",
+        "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2025/05/openleaf-1-1.jpg",
+        "publishedAt": "2025-05-06T17:01:19Z",
+        "content": "From freemium apps that charge subscription fees for additional features to FOSS solutions that can be hosted on your local hardware, the software landscape is riddled with applications designed to h\u2026 [+4917 chars]"
     }
 ]
