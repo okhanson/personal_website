@@ -2,79 +2,79 @@
     {
         "source": {
             "id": null,
+            "name": "Slashdot.org"
+        },
+        "author": "EditorDavid",
+        "title": "How Spaceport America Will Grow",
+        "description": "18 years ago Slashdot covered the creation of Spaceport America. \nToday Space.com hails it as \"the first purpose-built commercial spaceport in the world.\" But engineer/executive director Scott McLaughlin has plans to grow even more.\n\n\nAlready home to an array\u2026",
+        "url": "https://science.slashdot.org/story/25/05/11/2040256/how-spaceport-america-will-grow",
+        "urlToImage": "https://a.fsdn.com/sd/topics/space_64.png",
+        "publishedAt": "2025-05-11T21:02:00Z",
+        "content": "18 years ago Slashdot covered the creation of Spaceport America.Today Space.com hails it as \"the first purpose-built commercial spaceport in the world.\" But engineer/executive director Scott McLaughl\u2026 [+2246 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Windows Central"
+        },
+        "author": "jez@windowscentral.com (Jez Corden)",
+        "title": "Windows Phone just got its first AI ChatGPT-style app. No, really.",
+        "description": "Homebrew developers keeping Windows Phone 8.1 alive from beyond the grave are working hard to keep the platform in line with the times.",
+        "url": "https://www.windowscentral.com/phones/windows-phone/windows-phone-just-got-its-first-ai-chatgpt-style-app-no-really",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/FVGtVAwJExdgkYzdF3WToE.jpg",
+        "publishedAt": "2025-05-11T19:41:48Z",
+        "content": "The year is 2079. Humanity now largely dwells in crowded underground bunkers, having scorched the surface with nuclear war. Subsisting on recycled protein paste and mildly-irradiated arthropods, huma\u2026 [+2533 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Forbes"
         },
-        "author": "Expert Panel\u00ae, Forbes Councils Member, \n Expert Panel\u00ae, Forbes Councils Member\n https://www.forbes.com/councils/forbestechcouncil/people/expertpanel/",
-        "title": "Barriers To Effective Omnichannel Retail (And How To Solve Them)",
-        "description": "It\u2019s not enough for businesses to simply be everywhere\u2014customers expect high-quality, seamless and personalized experiences all the time, no matter where they are.",
-        "url": "https://www.forbes.com/councils/forbestechcouncil/2025/05/06/barriers-to-effective-omnichannel-retail-and-how-to-solve-them/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66169e234148d9ea99fe14b1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2025-05-06T17:15:19Z",
-        "content": "getty\r\nTodays businesses must be prepared to meet customers where they are, whether theyre in the store, shopping online, accessing a mobile app or browsing social media. But its not enough for busin\u2026 [+9160 chars]"
+        "author": "Jason Kirsch, Contributor, \n Jason Kirsch, Contributor\n https://www.forbes.com/sites/investor-hub/people/Jason-Kirsch/",
+        "title": "Where Will Verizon Stock Be In 5 Years?",
+        "description": "Wondering where Verizon stock may be in 5 years? Learn what the current state of \nVZ stock is and what its five year outlook may contain.",
+        "url": "https://www.forbes.com/sites/investor-hub/article/where-will-verizon-vz-stock-be-in-5-years/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/681d1699130525d3d13b644f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-05-11T19:00:00Z",
+        "content": "Verizon stock represents a compelling option for income-focused investors seeking dividend stability ... More with moderate growth potential.\r\nGetty Images\r\nVerizon Communications (VZ) is one of Amer\u2026 [+14549 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Science Daily"
+            "name": "Securityaffairs.com"
         },
-        "author": null,
-        "title": "Experimental quantum communications network",
-        "description": "Researchers recently connected their campuses with an experimental quantum communications network using two optical fibers.",
-        "url": "https://www.sciencedaily.com/releases/2025/05/250506131336.htm",
-        "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-        "publishedAt": "2025-05-06T17:13:36Z",
-        "content": "Researchers at the University of Rochester and Rochester Institute of Technology recently connected their campuses with an experimental quantum communications network using two optical fibers. In a n\u2026 [+2827 chars]"
+        "author": "Pierluigi Paganini",
+        "title": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 45",
+        "description": "Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape iClicker site hack targeted students with malware via fake CAPTCHA New Noodlophile Stealer Distributes Via Fake AI Video Gene\u2026",
+        "url": "https://securityaffairs.com/177697/breaking-news/security-affairs-malware-newsletter-round-45.html",
+        "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/SecurityAffairs-malware-newsletter-2.png",
+        "publishedAt": "2025-05-11T18:28:01Z",
+        "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 45\r\n\u00a0|\u00a0Security Affairs newsletter Round 523 by Pierluigi Paganini INTERNATIONAL EDITION\r\n\u00a0|\u00a0Ascension reveals personal data of 437,329 patients exposed in c\u2026 [+163186 chars]"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "Fact-checking Trump\u2019s claim of securing $10 trillion in investments for US",
+        "description": "The White House reports $5.1T in promised investments, with $4.3T newly pledged. Experts say $2.1T may not fully happen.",
+        "url": "https://www.aljazeera.com/news/2025/5/11/fact-checking-trumps-claim-of-securing-10-trillion-in-investments-for-us",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/AP25125778007759-1746544136.jpg?resize=1920%2C1440",
+        "publishedAt": "2025-05-11T18:22:05Z",
+        "content": "Since returning to the White House, US President Donald Trump has touted corporate and foreign US investment announcements as proof he is ushering in the golden age of America.\r\nOn January 21, Trump \u2026 [+9907 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Bytenite.com"
+            "name": "Securityaffairs.com"
         },
-        "author": "fabcairo",
-        "title": "Show HN: ByteNite \u2013 Distributed compute meets serverless for AI and data",
-        "description": "Hi HN, I\u2019m one of the creators of ByteNite (https://bytenite.com).We built it for developers running compute-heavy containerized workloads (AI, ETL, batch jobs) who are frustrated with the limitations of traditional serverless platforms: timeouts, cold starts\u2026",
-        "url": "https://docs.bytenite.com",
-        "urlToImage": "https://docs.bytenite.com/~gitbook/image?url=https%3A%2F%2F2490067614-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FhWTaF6n2ZDainV7RJ5Q9%252Fsites%252Fsite_xbtUU%252Fsocialpreview%252FaaOlUQiYb3ChJRFCgj9o%252Fdocs-social-media-preview.png%3Falt%3Dmedia%26token%3D2e38530f-7feb-4bb1-a92d-59e42d55d84c&width=1200&height=630&sign=9f9e8349&sv=2",
-        "publishedAt": "2025-05-06T17:10:58Z",
-        "content": "ByteNites serverless container platform is built for high-performance teams and developers who need fast startup times, flexible compute, and a simpler path to getting things donewithout the headache\u2026 [+3484 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Hackaday"
-        },
-        "author": "Navarre Bartz",
-        "title": "Supercon 2024: A Hacker\u2019s Guide to Analog Design in a Digital World",
-        "description": "We often think of analog computing as a relic of the past, room-sized monstrosities filled with vacuum tubes doing their best to calculate Monte Carlo simulations or orbital velocities. Analog \u2026read more",
-        "url": "https://hackaday.com/2025/05/06/supercon-2024-a-hackers-guide-to-analog-design-in-a-digital-world/",
-        "urlToImage": "https://hackaday.com/wp-content/uploads/2025/04/adnani_feat.png",
-        "publishedAt": "2025-05-06T17:02:57Z",
-        "content": "We often think of analog computing as a relic of the past, room-sized monstrosities filled with vacuum tubes doing their best to calculate Monte Carlo simulations or orbital velocities. Analog isn\u2019t \u2026 [+3805 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Freerepublic.com"
-        },
-        "author": "techietory.com",
-        "title": "Installing Linux: A Step-by-Step Guide [FREEPER EXPERTS, PLEASE CRITIQUE THIS ARTICLE OR ADD YOUR OWN SUGGESTED LINKS FOR INSTALLATION OR LEARNING]",
-        "description": "ransomnote: This is just one of the countless articles and videos about installing Linux. It's written using Ubuntu as an example, but it also lists 5 popular distros (e.g., versions) of Linux in the article, and there are over 1000 different distros beyond t\u2026",
-        "url": "https://freerepublic.com/focus/f-chat/4315363/posts",
-        "urlToImage": null,
-        "publishedAt": "2025-05-06T17:01:53Z",
-        "content": "ransomnote: This is just one of the countless articles and videos about installing Linux. It's written using Ubuntu as an example, but it also lists 5 popular distros (e.g., versions) of Linux in the\u2026 [+2708 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "XDA Developers"
-        },
-        "author": "Ayush Pande",
-        "title": "4 reasons OpenLeaf is the best in-browser note-taker I can't live without",
-        "description": "It's perfect when you want to quickly jot down and share your notes",
-        "url": "https://www.xda-developers.com/openleaf-is-the-best-in-browser-note-taker/",
-        "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2025/05/openleaf-1-1.jpg",
-        "publishedAt": "2025-05-06T17:01:19Z",
-        "content": "From freemium apps that charge subscription fees for additional features to FOSS solutions that can be hosted on your local hardware, the software landscape is riddled with applications designed to h\u2026 [+4917 chars]"
+        "author": "Pierluigi Paganini",
+        "title": "Security Affairs newsletter Round 523 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION",
+        "description": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Ascension reve\u2026",
+        "url": "https://securityaffairs.com/177689/breaking-news/security-affairs-newsletter-round-523-by-pierluigi-paganini-international-edition.html",
+        "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
+        "publishedAt": "2025-05-11T18:02:14Z",
+        "content": "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 45\r\n\u00a0|\u00a0Security Affairs newsletter Round 523 by Pierluigi Paganini INTERNATIONAL EDITION\r\n\u00a0|\u00a0Ascension reveals personal data of 437,329 patients exposed in c\u2026 [+163186 chars]"
     }
 ]
