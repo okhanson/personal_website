@@ -1,80 +1,80 @@
 [
     {
         "source": {
+            "id": "financial-post",
+            "name": "Financial Post"
+        },
+        "author": "Bloomberg News",
+        "title": "Chicago\u2019s Wealthy Back Bay Area Fund for University Startups",
+        "description": "A Silicon Valley venture capital firm has lured investment from billionaires including Don Wilson, Michael Polsky and Ashley Duchossois Joyce to fund University of Chicago technology startups.",
+        "url": "https://financialpost.com/pmn/business-pmn/chicagos-wealthy-back-bay-area-fund-for-university-startups",
+        "urlToImage": null,
+        "publishedAt": "2025-05-29T16:32:04Z",
+        "content": "(Bloomberg) A Silicon Valley venture capital firm has lured investment from billionaires including Don Wilson, Michael Polsky and Ashley Duchossois Joyce to fund University of Chicago technology star\u2026 [+5133 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Megan Poinski, Forbes Staff, \n Megan Poinski, Forbes Staff\n https://www.forbes.com/sites/meganpoinski/",
+        "title": "How (And Why) CIOs Can Make AI Open Source",
+        "description": "Also in the Forbes CIO newsletter: Mindsets impede AI disruption, Nvidia earnings shatter records and expectations, why China might not want to win the AI race.",
+        "url": "https://www.forbes.com/sites/cio/2025/05/29/how-and-why-cios-can-make-ai-open-source/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68388b358357b55b2f6201c1/0x0.jpg?format=jpg&crop=1504,845,x0,y131,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-05-29T16:31:54Z",
+        "content": "This is the published version of Forbes CIO newsletter, which offers the latest news for chief innovation officers and other technology-focused leaders. Click here to get it delivered to your inbox e\u2026 [+13600 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "GlobeNewswire"
         },
-        "author": "ZA Miner",
-        "title": "Experience Free Cloud Mining & Start Making Money: Bitcoin (BTC) & Ripple (XRP) Investors Winning Big With ZA Miner",
-        "description": "May 22, 2025, sees a major boom in the cryptocurrency market, with Bitcoin reaching a new all-time high of $111,404. This is propelled by rising institutional investments and optimism about upcoming U.S. rules for digital assets. Ripple's XRP has also experie\u2026",
-        "url": "https://www.globenewswire.com/news-release/2025/05/24/3087808/0/en/Experience-Free-Cloud-Mining-Start-Making-Money-Bitcoin-BTC-Ripple-XRP-Investors-Winning-Big-With-ZA-Miner.html",
-        "urlToImage": "https://ml.globenewswire.com/Resource/Download/117ea192-6ab6-4f4a-820d-84f84cace771",
-        "publishedAt": "2025-05-24T17:07:00Z",
-        "content": "London, United Kingdom, May 24, 2025 (GLOBE NEWSWIRE) -- \r\nMay 22, 2025, sees a major boom in the cryptocurrency market, with Bitcoin reaching a new all-time high of $111,404. This is propelled by ri\u2026 [+5180 chars]"
+        "author": "CMI MARKET RESEARCH PRIVATE LIMITED",
+        "title": "[Latest] Global 5G infrastructure Market Size/Share Worth USD 675.9 Billion by 2034 at a 31.6% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value, SWOT Analysis)",
+        "description": "[220+ Pages Latest Report] According to a market research study published by Custom Market Insights, the demand analysis of Global 5G infrastructure Market size & share revenue was valued at approximately USD 34.23 Billion in 2024 and is expected to reach USD\u2026",
+        "url": "https://www.globenewswire.com/news-release/2025/05/29/3090623/0/en/Latest-Global-5G-infrastructure-Market-Size-Share-Worth-USD-675-9-Billion-by-2034-at-a-31-6-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentation.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/74609d89-5437-4826-b7b8-31238ea2e65c",
+        "publishedAt": "2025-05-29T16:30:00Z",
+        "content": "Austin, TX, USA, May 29, 2025 (GLOBE NEWSWIRE) -- Custom Market Insights has published a new research report titled 5G infrastructure Market Size, Trends and Insights By Communication Infrastructure \u2026 [+27718 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "PCMag.com"
+            "name": "Retail Dive"
         },
-        "author": "Jade Chung-Lee",
-        "title": "Save Some Serious Money With These Outstanding Memorial Day Tech Deals",
-        "description": "There's nothing quite like a three-day weekend to bring out the biggest discounts of the season, and now you've got some much-needed free time to score some top-rated tech for low prices.\nMemorial Day presents another amazing opportunity to find sales on some\u2026",
-        "url": "https://uk.pcmag.com/news/158234/save-some-serious-money-with-these-outstanding-memorial-day-tech-deals",
-        "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/s/save-some-/save-some-serious-money-with-these-outstanding-memorial-day_tqbr.1200.jpg",
-        "publishedAt": "2025-05-24T16:42:27Z",
-        "content": "Memorial Day presents another amazing opportunity to find sales on some of PCMag's top-rated tech and favorite picks. The major retailers and brands have unleashed those amazing deals, and we're goin\u2026 [+7410 chars]"
+        "author": "Dani James",
+        "title": "Best Buy lowers guidance due to tariffs as Q1 revenue drops",
+        "description": "The retailer enacted tariff-related price adjustments this month and made progress in minimizing the percentage of its product costs from China.",
+        "url": "https://www.retaildive.com/news/best-buy-lowers-guidance-q1-revenue-drops-tariffs/749298/",
+        "urlToImage": "https://imgproxy.divecdn.com/b3dHsu5FExLVDADZnReQW7KE4Ow672ufUNQtiC_4zpM/g:nowe:84:244/c:1178:665/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjQzNC5qcGVn.webp",
+        "publishedAt": "2025-05-29T16:26:00Z",
+        "content": "Dive Brief:\r\n<ul><li>Navigating an evolving global trade environment, Best Buys first-quarter revenues declined 0.9% year over year to $8.8 billion, according to a Thursday press release.\u00a0</li><li>Be\u2026 [+3522 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Tom's Hardware UK"
+            "name": "Theinventory.com"
         },
-        "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-        "title": "Oracle has reportedly placed an order for $40 billion in Nvidia AI GPUs for a new OpenAI data center",
-        "description": "Oracle aims to deploy 400,000 Nvidia GB200 AI chips at a Texas data center to support the U.S. Stargate Project.",
-        "url": "https://www.tomshardware.com/pc-components/gpus/oracle-has-reportedly-placed-an-order-for-usd40-billion-in-nvidia-ai-gpus-for-a-new-openai-data-center",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/S2nUwKcTDsCAZCH2JXwtTL.jpg",
-        "publishedAt": "2025-05-24T16:26:03Z",
-        "content": "Oracle has reportedly purchased about 400,000 Nvidia GB200 AI chips, worth about $40 billion, for deployment in Abilene, Texas. According to the Financial Times, this site will be the first to host t\u2026 [+2649 chars]"
+        "author": "The Inventory Staff",
+        "title": "Take Your Screen On The Go With 63% Off An Acer Portable Monitor",
+        "description": "Commerce Content is independent of Editorial and Advertising, and if you buy something through our posts, we may get a small share of the sale. Click here for more.As remote work and mobile productivity become the norm, having the right tools at your disposal\u2026",
+        "url": "https://theinventory.com/take-your-screen-on-the-go-with-63-off-an-acer-portabl-1851782938",
+        "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/99d4067a40f5bee1c86e3fe7154fef86.png",
+        "publishedAt": "2025-05-29T16:22:57Z",
+        "content": "As remote work and mobile productivity become the norm, having the right tools at your disposal can make all the difference. The Acer PM161Q Bbmiuux 15.6\" Full HD Portable Monitor offers an excellent\u2026 [+1674 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "PCMag.com"
+            "name": "Forrester.com"
         },
-        "author": "Pcmag Staff",
-        "title": "5 Big Takeaways From Computex 2025",
-        "description": "We saw AI features\u2014and screens of all sizes\u2014infused into pretty much everything at Computex, from hulking PCs to tiny system components. But those aren't the only trends that dominated the largest PC hardware show of the year.\nWhile a dizzying variety of devi\u2026",
-        "url": "https://me.pcmag.com/en/laptops/30058/5-big-takeaways-from-computex-2025",
-        "urlToImage": "https://sm.pcmag.com/t/pcmag_me/news/5/5-big-take/5-big-takeaways-from-computex-2025_ncyf.1200.png",
-        "publishedAt": "2025-05-24T16:00:00Z",
-        "content": "While a dizzying variety of devices are on the Computex show floor every year, youll find that many share common threads. We analyzed everything we saw in Taipei this year and found plenty of top-not\u2026 [+5600 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gadget Flow"
-        },
-        "author": "Grigor Baklajyan",
-        "title": "OpenAI\u2019s mysterious device: What are Sam Altman and Jony Ive building?",
-        "description": "\u201cPeople who are really serious about software should make their own hardware,\u201d Alan Kay says. OpenAI CEO Sam Altman and ex-Apple designer Jony Ive totally agree. Altman even backed Humane AI Pin, but that didn\u2019t work out. The product tanked,..",
-        "url": "https://thegadgetflow.com/blog/openai-device/",
-        "urlToImage": "https://thegadgetflow.com/wp-content/uploads/2025/05/OpenAI-device.jpg",
-        "publishedAt": "2025-05-24T16:00:00Z",
-        "content": "What do you get when Apples design legend and OpenAIs visionary team up? Whatever it is, its not a phoneand it might just replace it.\r\nPeople who are really serious about software should make their o\u2026 [+3660 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "PCMag.com"
-        },
-        "author": "Pcmag Staff",
-        "title": "5 Big Takeaways From Computex 2025",
-        "description": "We saw AI features\u2014and screens of all sizes\u2014infused into pretty much everything at Computex, from hulking PCs to tiny system components. But those aren't the only trends that dominated the largest PC hardware show of the year.\nWhile a dizzying variety of devi\u2026",
-        "url": "https://uk.pcmag.com/monitors/158233/5-big-takeaways-from-computex-2025",
-        "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/5/5-big-take/5-big-takeaways-from-computex-2025_xpsz.1200.png",
-        "publishedAt": "2025-05-24T16:00:00Z",
-        "content": "While a dizzying variety of devices are on the Computex show floor every year, youll find that many share common threads. We analyzed everything we saw in Taipei this year and found plenty of top-not\u2026 [+5600 chars]"
+        "author": "Devin Dickerson",
+        "title": "Red Hat Summit 2025: AI, Virtualization, Hybrid Cloud, And The Future of Enterprise IT",
+        "description": "Red Hat CEO Matt Hicks opened the summit discussing how AI has \u201cchanged the game\u201d with enterprise IT being transformed from top to bottom. Hicks emphasized that AI isn\u2019t just about automation \u2014 it\u2019s about building adaptive systems that learn, evolve, and deli\u2026",
+        "url": "https://www.forrester.com/blogs/red-hat-summit-2025-ai-virtualization-hybrid-cloud-and-the-future-of-enterprise-it/",
+        "urlToImage": "https://go.forrester.com/wp-content/uploads/2025/05/Screenshot-2025-05-28-132641.png",
+        "publishedAt": "2025-05-29T16:01:37Z",
+        "content": "Red Hat CEO Matt Hicks opened the summit discussing how AI has changed the game with enterprise IT being transformed from top to bottom. Hicks emphasized that AI isnt just about automation its about \u2026 [+5217 chars]"
     }
 ]
