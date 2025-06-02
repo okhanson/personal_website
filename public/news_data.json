@@ -1,80 +1,80 @@
 [
     {
         "source": {
-            "id": "financial-post",
-            "name": "Financial Post"
+            "id": null,
+            "name": "XDA Developers"
         },
-        "author": "Bloomberg News",
-        "title": "Chicago\u2019s Wealthy Back Bay Area Fund for University Startups",
-        "description": "A Silicon Valley venture capital firm has lured investment from billionaires including Don Wilson, Michael Polsky and Ashley Duchossois Joyce to fund University of Chicago technology startups.",
-        "url": "https://financialpost.com/pmn/business-pmn/chicagos-wealthy-back-bay-area-fund-for-university-startups",
-        "urlToImage": null,
-        "publishedAt": "2025-05-29T16:32:04Z",
-        "content": "(Bloomberg) A Silicon Valley venture capital firm has lured investment from billionaires including Don Wilson, Michael Polsky and Ashley Duchossois Joyce to fund University of Chicago technology star\u2026 [+5133 chars]"
+        "author": "Adam Conway",
+        "title": "Do you really need \"post-quantum\" encryption for your VPN or storage?",
+        "description": "The answer is more complicated than a simple yes or no, but there's some needed context first.",
+        "url": "https://www.xda-developers.com/do-need-post-quantum-encryption-vpn-storage/",
+        "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/wireguard-close-mac-os.jpg",
+        "publishedAt": "2025-06-01T22:00:20Z",
+        "content": "Modern digital security relies heavily on encryption algorithms grounded in difficult math problems, which is the backbone of whats known as public-key infrastructure (PKI). From securing websites to\u2026 [+17622 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mutualfundobserver.com"
+        },
+        "author": "David Snowball",
+        "title": "\u201cSomething wicked this way comes,\u201d Ray Bradbury (1962)",
+        "description": "It was a great and [\u2026]",
+        "url": "https://www.mutualfundobserver.com/2025/06/something-wicked-this-way-comes-ray-bradbury-1962/",
+        "urlToImage": "https://www.mutualfundobserver.com/wp-content/uploads/2025/06/cooger-dark.png",
+        "publishedAt": "2025-06-01T21:37:58Z",
+        "content": "By David Snowball It was a great and horrifying story about two young boys and the arrival of the Cooger and Dark Carnival in Green Town, Illinois. If you entered the carnival grounds late at night, \u2026 [+19621 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Github.com"
+        },
+        "author": "winzamark12",
+        "title": "Show HN: Deep Research \u2013 Open-Source Customizable Reasoning Framework for Devs",
+        "description": "The first ever AI peer reviewed research article just got approved. It\u2019s kinda crazy how advanced AI have come to replace researchers.I've just been using Deep Research on ChatGPT and Perplexity a lot to write and research complex technical reports for my bos\u2026",
+        "url": "https://github.com/JigsawStack/deep-research",
+        "urlToImage": "https://opengraph.githubassets.com/d27963762bb5ca5a3a4607f586c44db3e3a236bc088b5903b32afaaae299cf04/JigsawStack/deep-research",
+        "publishedAt": "2025-06-01T21:34:46Z",
+        "content": "Deep Research is an open source library for conducting deep, multi-hop research with reasoning capabilities. It performs focused web searches with recursive exploration to provide comprehensive, evid\u2026 [+6434 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Forbes"
         },
-        "author": "Megan Poinski, Forbes Staff, \n Megan Poinski, Forbes Staff\n https://www.forbes.com/sites/meganpoinski/",
-        "title": "How (And Why) CIOs Can Make AI Open Source",
-        "description": "Also in the Forbes CIO newsletter: Mindsets impede AI disruption, Nvidia earnings shatter records and expectations, why China might not want to win the AI race.",
-        "url": "https://www.forbes.com/sites/cio/2025/05/29/how-and-why-cios-can-make-ai-open-source/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68388b358357b55b2f6201c1/0x0.jpg?format=jpg&crop=1504,845,x0,y131,safe&height=900&width=1600&fit=bounds",
-        "publishedAt": "2025-05-29T16:31:54Z",
-        "content": "This is the published version of Forbes CIO newsletter, which offers the latest news for chief innovation officers and other technology-focused leaders. Click here to get it delivered to your inbox e\u2026 [+13600 chars]"
+        "author": "Ken Silverstein, Senior Contributor, \n Ken Silverstein, Senior Contributor\n https://www.forbes.com/sites/kensilverstein/",
+        "title": "Green Energy\u2019s Role In A World Where AI Data Centers Are Power Hungry",
+        "description": "While renewables will serve as the backbone over time, the most optimal approach is to combine them with other fuels right now.",
+        "url": "https://www.forbes.com/sites/kensilverstein/2025/06/01/green-energys-role-in-a-world-where-ai-data-centers-are-power-hungry/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/681fccc6dadc77fdbda07136/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-06-01T21:16:00Z",
+        "content": "This photograph shows poles for electrical power distribution during a massive power cut affecting ... More the entire Iberian peninsula and the south of France, near Seville on April 28, 2025. A \"ma\u2026 [+8750 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "GlobeNewswire"
+            "name": "Freerepublic.com"
         },
-        "author": "CMI MARKET RESEARCH PRIVATE LIMITED",
-        "title": "[Latest] Global 5G infrastructure Market Size/Share Worth USD 675.9 Billion by 2034 at a 31.6% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value, SWOT Analysis)",
-        "description": "[220+ Pages Latest Report] According to a market research study published by Custom Market Insights, the demand analysis of Global 5G infrastructure Market size & share revenue was valued at approximately USD 34.23 Billion in 2024 and is expected to reach USD\u2026",
-        "url": "https://www.globenewswire.com/news-release/2025/05/29/3090623/0/en/Latest-Global-5G-infrastructure-Market-Size-Share-Worth-USD-675-9-Billion-by-2034-at-a-31-6-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentation.html",
-        "urlToImage": "https://ml.globenewswire.com/Resource/Download/74609d89-5437-4826-b7b8-31238ea2e65c",
-        "publishedAt": "2025-05-29T16:30:00Z",
-        "content": "Austin, TX, USA, May 29, 2025 (GLOBE NEWSWIRE) -- Custom Market Insights has published a new research report titled 5G infrastructure Market Size, Trends and Insights By Communication Infrastructure \u2026 [+27718 chars]"
+        "author": "sciencealert.com",
+        "title": "Uploading The Human Mind Could Become a Reality, Expert Says",
+        "description": "Is it possible to upload the consciousness of your mind into a computer? \u2013 Amreen, age 15, New Delhi, India The concept, cool yet maybe a little creepy, is known as mind uploading. Think of it as a way to create a copy of your brain, a transmission of your mi\u2026",
+        "url": "https://freerepublic.com/focus/f-backroom/4320389/posts",
+        "urlToImage": null,
+        "publishedAt": "2025-06-01T20:37:27Z",
+        "content": "Skip to comments.\r\nUploading The Human Mind Could Become a Reality, Expert Sayssciencealert.com ^Posted on 06/01/2025 1:37:27 PM PDT by algore\r\nIs it possible to upload the consciousness of your mind\u2026 [+4475 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "Retail Dive"
+            "id": "techradar",
+            "name": "TechRadar"
         },
-        "author": "Dani James",
-        "title": "Best Buy lowers guidance due to tariffs as Q1 revenue drops",
-        "description": "The retailer enacted tariff-related price adjustments this month and made progress in minimizing the percentage of its product costs from China.",
-        "url": "https://www.retaildive.com/news/best-buy-lowers-guidance-q1-revenue-drops-tariffs/749298/",
-        "urlToImage": "https://imgproxy.divecdn.com/b3dHsu5FExLVDADZnReQW7KE4Ow672ufUNQtiC_4zpM/g:nowe:84:244/c:1178:665/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjQzNC5qcGVn.webp",
-        "publishedAt": "2025-05-29T16:26:00Z",
-        "content": "Dive Brief:\r\n<ul><li>Navigating an evolving global trade environment, Best Buys first-quarter revenues declined 0.9% year over year to $8.8 billion, according to a Thursday press release.\u00a0</li><li>Be\u2026 [+3522 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theinventory.com"
-        },
-        "author": "The Inventory Staff",
-        "title": "Take Your Screen On The Go With 63% Off An Acer Portable Monitor",
-        "description": "Commerce Content is independent of Editorial and Advertising, and if you buy something through our posts, we may get a small share of the sale. Click here for more.As remote work and mobile productivity become the norm, having the right tools at your disposal\u2026",
-        "url": "https://theinventory.com/take-your-screen-on-the-go-with-63-off-an-acer-portabl-1851782938",
-        "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/99d4067a40f5bee1c86e3fe7154fef86.png",
-        "publishedAt": "2025-05-29T16:22:57Z",
-        "content": "As remote work and mobile productivity become the norm, having the right tools at your disposal can make all the difference. The Acer PM161Q Bbmiuux 15.6\" Full HD Portable Monitor offers an excellent\u2026 [+1674 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forrester.com"
-        },
-        "author": "Devin Dickerson",
-        "title": "Red Hat Summit 2025: AI, Virtualization, Hybrid Cloud, And The Future of Enterprise IT",
-        "description": "Red Hat CEO Matt Hicks opened the summit discussing how AI has \u201cchanged the game\u201d with enterprise IT being transformed from top to bottom. Hicks emphasized that AI isn\u2019t just about automation \u2014 it\u2019s about building adaptive systems that learn, evolve, and deli\u2026",
-        "url": "https://www.forrester.com/blogs/red-hat-summit-2025-ai-virtualization-hybrid-cloud-and-the-future-of-enterprise-it/",
-        "urlToImage": "https://go.forrester.com/wp-content/uploads/2025/05/Screenshot-2025-05-28-132641.png",
-        "publishedAt": "2025-05-29T16:01:37Z",
-        "content": "Red Hat CEO Matt Hicks opened the summit discussing how AI has changed the game with enterprise IT being transformed from top to bottom. Hicks emphasized that AI isnt just about automation its about \u2026 [+5217 chars]"
+        "author": "Efosa Udinmwen",
+        "title": "Quantum computing startup wants to launch a 1000-qubit machine by 2031 that could make the traditional HPC market obsolete",
+        "description": "Quantum computing enters new territory with multimode encoding, shrinking systems and slashing power demands.",
+        "url": "https://www.techradar.com/pro/quantum-computing-startup-wants-to-launch-a-1000-qubit-machine-by-2031-that-could-make-the-traditional-hpc-market-obsolete",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/TgWMzPsq2vcHj4jWmHmt5j.png",
+        "publishedAt": "2025-06-01T20:32:00Z",
+        "content": "<ul><li>Nord Quantique promises quantum power without the bulk or energy drain</li><li>Traditional HPC may fall if Nord\u2019s speed and energy claims prove real</li><li>Cracking RSA-830 in an hour could \u2026 [+3637 chars]"
     }
 ]
