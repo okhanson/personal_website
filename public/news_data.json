@@ -2,79 +2,79 @@
     {
         "source": {
             "id": null,
-            "name": "XDA Developers"
+            "name": "Amazon.com"
         },
-        "author": "Adam Conway",
-        "title": "Do you really need \"post-quantum\" encryption for your VPN or storage?",
-        "description": "The answer is more complicated than a simple yes or no, but there's some needed context first.",
-        "url": "https://www.xda-developers.com/do-need-post-quantum-encryption-vpn-storage/",
-        "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/wireguard-close-mac-os.jpg",
-        "publishedAt": "2025-06-01T22:00:20Z",
-        "content": "Modern digital security relies heavily on encryption algorithms grounded in difficult math problems, which is the backbone of whats known as public-key infrastructure (PKI). From securing websites to\u2026 [+17622 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mutualfundobserver.com"
-        },
-        "author": "David Snowball",
-        "title": "\u201cSomething wicked this way comes,\u201d Ray Bradbury (1962)",
-        "description": "It was a great and [\u2026]",
-        "url": "https://www.mutualfundobserver.com/2025/06/something-wicked-this-way-comes-ray-bradbury-1962/",
-        "urlToImage": "https://www.mutualfundobserver.com/wp-content/uploads/2025/06/cooger-dark.png",
-        "publishedAt": "2025-06-01T21:37:58Z",
-        "content": "By David Snowball It was a great and horrifying story about two young boys and the arrival of the Cooger and Dark Carnival in Green Town, Illinois. If you entered the carnival grounds late at night, \u2026 [+19621 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Github.com"
-        },
-        "author": "winzamark12",
-        "title": "Show HN: Deep Research \u2013 Open-Source Customizable Reasoning Framework for Devs",
-        "description": "The first ever AI peer reviewed research article just got approved. It\u2019s kinda crazy how advanced AI have come to replace researchers.I've just been using Deep Research on ChatGPT and Perplexity a lot to write and research complex technical reports for my bos\u2026",
-        "url": "https://github.com/JigsawStack/deep-research",
-        "urlToImage": "https://opengraph.githubassets.com/d27963762bb5ca5a3a4607f586c44db3e3a236bc088b5903b32afaaae299cf04/JigsawStack/deep-research",
-        "publishedAt": "2025-06-01T21:34:46Z",
-        "content": "Deep Research is an open source library for conducting deep, multi-hop research with reasoning capabilities. It performs focused web searches with recursive exploration to provide comprehensive, evid\u2026 [+6434 chars]"
+        "author": "Ankush Goyal",
+        "title": "Optimizing ODCR usage through AI-powered capacity insights",
+        "description": "Efficient resource management is crucial for organizations seeking to optimize cloud costs while making sure of seamless access to compute capacity. Amazon EC2 On-Demand Capacity Reservations (ODCRs) provide the flexibility to reserve compute capacity within \u2026",
+        "url": "https://aws.amazon.com/blogs/compute/optimizing-odcr-usage-through-ai-powered-capacity-insights/",
+        "urlToImage": "https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2025/06/05/ComputeBlog-2337-featured-images-1120x630.png",
+        "publishedAt": "2025-06-05T16:51:15Z",
+        "content": "Efficient resource management is crucial for organizations seeking to optimize cloud costs while making sure of seamless access to compute capacity. Amazon Elastic Compute Cloud (Amazon EC2) On-Deman\u2026 [+12766 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Forbes"
         },
-        "author": "Ken Silverstein, Senior Contributor, \n Ken Silverstein, Senior Contributor\n https://www.forbes.com/sites/kensilverstein/",
-        "title": "Green Energy\u2019s Role In A World Where AI Data Centers Are Power Hungry",
-        "description": "While renewables will serve as the backbone over time, the most optimal approach is to combine them with other fuels right now.",
-        "url": "https://www.forbes.com/sites/kensilverstein/2025/06/01/green-energys-role-in-a-world-where-ai-data-centers-are-power-hungry/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/681fccc6dadc77fdbda07136/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2025-06-01T21:16:00Z",
-        "content": "This photograph shows poles for electrical power distribution during a massive power cut affecting ... More the entire Iberian peninsula and the south of France, near Seville on April 28, 2025. A \"ma\u2026 [+8750 chars]"
+        "author": "Ann Kirschner, Contributor, \n Ann Kirschner, Contributor\n https://www.forbes.com/sites/annkirschner/",
+        "title": "The Great Education Earthquake: Building On New Ground",
+        "description": "Earthquakes sometimes create new land. What should we build on the new land created by the current earthquake in higher education?",
+        "url": "https://www.forbes.com/sites/annkirschner/2025/06/05/the-great-education-earthquake-building-on-new-ground/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6841bea3500027ca6c96b499/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-06-05T16:50:44Z",
+        "content": "Napier before the earthquake.\r\nA view of Napier before the city was devastated by an earthquake in 1931. (Photo by \u00a9 Hulton-Deutsch ... More Collection/CORBIS/Corbis via Getty Images)\r\nCorbis via Get\u2026 [+9451 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Freerepublic.com"
+            "name": "Screen Rant"
         },
-        "author": "sciencealert.com",
-        "title": "Uploading The Human Mind Could Become a Reality, Expert Says",
-        "description": "Is it possible to upload the consciousness of your mind into a computer? \u2013 Amreen, age 15, New Delhi, India The concept, cool yet maybe a little creepy, is known as mind uploading. Think of it as a way to create a copy of your brain, a transmission of your mi\u2026",
-        "url": "https://freerepublic.com/focus/f-backroom/4320389/posts",
-        "urlToImage": null,
-        "publishedAt": "2025-06-01T20:37:27Z",
-        "content": "Skip to comments.\r\nUploading The Human Mind Could Become a Reality, Expert Sayssciencealert.com ^Posted on 06/01/2025 1:37:27 PM PDT by algore\r\nIs it possible to upload the consciousness of your mind\u2026 [+4475 chars]"
+        "author": "Dalton Norman",
+        "title": "Angelina Jolie's Aura As A Hacker Makes This Forgotten Film An Unavoidable Banger",
+        "description": "Angelina Jolie was just starting out when she starred in a 1990s cult classic that is finally getting the attention it deserves almost 30 years later.",
+        "url": "https://screenrant.com/hackers-angelina-jolie-forgotten-movie/",
+        "urlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2025/06/hackers-jolie.jpg",
+        "publishedAt": "2025-06-05T16:50:18Z",
+        "content": "Angelina Joliehas been one of Hollywood's biggest stars for nearly 30 years, and it was her performance in a 1995 cult classic that makes it so memorable today. After appearing in several critically \u2026 [+4965 chars]"
     },
     {
         "source": {
-            "id": "techradar",
-            "name": "TechRadar"
+            "id": null,
+            "name": "Forbes"
         },
-        "author": "Efosa Udinmwen",
-        "title": "Quantum computing startup wants to launch a 1000-qubit machine by 2031 that could make the traditional HPC market obsolete",
-        "description": "Quantum computing enters new territory with multimode encoding, shrinking systems and slashing power demands.",
-        "url": "https://www.techradar.com/pro/quantum-computing-startup-wants-to-launch-a-1000-qubit-machine-by-2031-that-could-make-the-traditional-hpc-market-obsolete",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/TgWMzPsq2vcHj4jWmHmt5j.png",
-        "publishedAt": "2025-06-01T20:32:00Z",
-        "content": "<ul><li>Nord Quantique promises quantum power without the bulk or energy drain</li><li>Traditional HPC may fall if Nord\u2019s speed and energy claims prove real</li><li>Cracking RSA-830 in an hour could \u2026 [+3637 chars]"
+        "author": "Megan Poinski, Forbes Staff, \n Megan Poinski, Forbes Staff\n https://www.forbes.com/sites/meganpoinski/",
+        "title": "Why Companies Using AI Should Increase Prices",
+        "description": "Also in the Forbes CIO newsletter: How to upgrade tech at Gillette Stadium, Meta deal fuels the nuclear power boom, federal government reshuffles AI research entity.",
+        "url": "https://www.forbes.com/sites/cio/2025/06/05/why-companies-using-ai-should-increase-prices/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6841c9ba49ef9e911889ad6c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-06-05T16:48:33Z",
+        "content": "This is the published version of Forbes CIO newsletter, which offers the latest news for chief innovation officers and other technology-focused leaders. Click here to get it delivered to your inbox e\u2026 [+14816 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Pypi.org"
+        },
+        "author": "cirq-dev@googlegroups.com",
+        "title": "cirq-google 1.6.0.dev20250605164716",
+        "description": "The Cirq module that provides tools and access to the Google Quantum Computing Service",
+        "url": "https://pypi.org/project/cirq-google/1.6.0.dev20250605164716/",
+        "urlToImage": null,
+        "publishedAt": "2025-06-05T16:47:20Z",
+        "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Clint Boulton, Brand Contributor, \n Clint Boulton, Brand Contributor\n https://www.forbes.com/sites/delltechnologies/people/clintboulton/",
+        "title": "Cracking The Code: How AI Revolutionizes Software Development",
+        "description": "Prompting GenAI systems to create code reduces repetitive processes and accelerates production cycles, freeing developers to focus on new, higher value projects.",
+        "url": "https://www.forbes.com/sites/delltechnologies/2025/06/05/cracking-the-code-how-ai-revolutionizes-software-development/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6841c5aaa3dd76289524f34b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-06-05T16:33:22Z",
+        "content": "As more organizations awaken to the power generative AI holds for building software, this guide can light the way. \r\nGetty\r\nFew practices stand to benefit from todays generative AI boom more than sof\u2026 [+4604 chars]"
     }
 ]
