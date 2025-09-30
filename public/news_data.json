@@ -1,80 +1,80 @@
 [
     {
         "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
+            "id": null,
+            "name": "SiliconANGLE News"
         },
-        "author": "Bloomberg",
-        "title": "Alphabet boosted by AI, cloud demand as spending needs skyrocket",
-        "description": "\u2018Our AI infrastructure investments are crucial to meeting the growth in demand from cloud customers,\u2019 he said on a call Wednesday following the report",
-        "url": "https://www.bloomberg.com/news/articles/2025-07-23/alphabet-slips-after-boosting-guidance-for-capital-expenditures",
-        "urlToImage": "https://bl-i.thgim.com/public/incoming/t9ma4v/article69849183.ece/alternates/LANDSCAPE_1200/2025-07-23T182414Z_621565219_RC29HEA8N1LI_RTRMADP_3_ALPHABET-RESULTS.JPG",
-        "publishedAt": "2025-07-24T04:01:10Z",
-        "content": "Alphabet Inc. said demand for artificial intelligence products boosted quarterly sales, and now requires an extreme increase in capital spending heightening pressure on the company to justify the cos\u2026 [+5322 chars]"
+        "author": "Kike Miralles",
+        "title": "Five forces shaping the next wave of quantum innovation",
+        "description": "Quantum technology is one of the most promising opportunities of the coming decade, with several billion dollars already invested, a wide variety of early products reaching the market, and a growing talent influx fueling hundreds of startups. Quantum computer\u2026",
+        "url": "https://siliconangle.com/2025/09/19/five-forces-shaping-next-wave-quantum-innovation/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/03/Designer-30.jpeg",
+        "publishedAt": "2025-09-19T19:47:52Z",
+        "content": "Quantum technology is one of the most promising opportunities of the coming decade, with several billion dollars already invested, a wide variety of early products reaching the market, and a growing \u2026 [+6392 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "BusinessLine"
+            "name": "Nvidia.com"
         },
-        "author": "ANI",
-        "title": "India's IT sector to see flat revenue growth of 0-2% in FY26: CareEdge Ratings",
-        "description": "\u2018The Indian IT sector is expected to witness a flat revenue growth of 0 to 2% in FY26 as compared to the previous year in terms of constant currency revenue growth\u2019",
-        "url": "https://www.thehindubusinessline.com/economy/indias-it-sector-to-see-flat-revenue-growth-of-0-2-in-fy26-careedge-ratings/article69849137.ece",
-        "urlToImage": "https://bl-i.thgim.com/public/incoming/hh5e1w/article69849150.ece/alternates/LANDSCAPE_1200/BL19_Think_Data_analysing.jpg",
-        "publishedAt": "2025-07-24T03:46:13Z",
-        "content": "The Indian Information Technology (IT) sector is likely to see flat revenue growth of 0 to 2 per cent year-on-year in the current financial year (FY26), according to a recent report by CareEdge Ratin\u2026 [+2272 chars]"
+        "author": "Mike Pritchard",
+        "title": "Predict Extreme Weather Events in Minutes Without a Supercomputer",
+        "description": "Scientists from NVIDIA, in collaboration with Lawrence Berkeley National Laboratory (Berkeley Lab), released a machine learning tool called Huge Ensembles...",
+        "url": "https://developer.nvidia.com/blog/predict-extreme-weather-events-in-minutes-without-a-supercomputer/",
+        "urlToImage": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/HENS-TechBlog-GIF-500x282.gif",
+        "publishedAt": "2025-09-19T19:19:22Z",
+        "content": "Scientists from NVIDIA, in collaboration with Lawrence Berkeley National Laboratory (Berkeley Lab), released a machine learning tool called Huge Ensembles (HENS) for extreme-weather prediction that b\u2026 [+5475 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Yahoo Entertainment"
+            "name": "Yanko Design"
         },
-        "author": "Simply Wall St",
-        "title": "Under The Bonnet, Deleum Berhad's (KLSE:DELEUM) Returns Look Impressive",
-        "description": "Did you know there are some financial metrics that can provide clues of a potential multi-bagger? Typically, we'll want...",
-        "url": "https://finance.yahoo.com/news/under-bonnet-deleum-berhads-klse-033434322.html",
-        "urlToImage": "https://media.zenfs.com/en/simply_wall_st__316/92d26d55968bddf376addae5e476c381",
-        "publishedAt": "2025-07-24T03:34:34Z",
-        "content": "Did you know there are some financial metrics that can provide clues of a potential multi-bagger? Typically, we'll want to notice a trend of growing return on capital employed (ROCE) and alongside th\u2026 [+3658 chars]"
+        "author": "Vincent Nguyen",
+        "title": "Huawei Paris Launch: Watch GT 6 Pro and Ultimate 2 add underwater messaging, cycling power, and medical grade health",
+        "description": "Huawei Paris Launch: Watch GT 6 Pro and Ultimate 2 add underwater messaging, cycling power, and medical grade healthAt Paris\u2019s V\u00e9lodrome National, Huawei staged its most ambitious ecosystem showcase to date. The event focused on an interconnected lineup of we\u2026",
+        "url": "https://www.yankodesign.com/2025/09/19/huawei-paris-launch-watch-gt-6-pro-and-ultimate-2-add-underwater-messaging-cycling-power-and-medical-grade-health/",
+        "urlToImage": "https://www.yankodesign.com/images/design_news/2025/09/huawei-paris-launch-watch-gt-6-and-ultimate-2-add-underwater-messaging-cycling-power-and-medical-grade-health/IMG_3183-2.jpg",
+        "publishedAt": "2025-09-19T19:15:45Z",
+        "content": "At Paris\u2019s V\u00e9lodrome National, Huawei staged its most ambitious ecosystem showcase to date. The event focused on an interconnected lineup of wearables, smartphones, tablets, audio, and creative softw\u2026 [+17317 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Shain Singh, principal security architect and innovation ambassador",
-        "title": "Overcoming app delivery and security challenges in AI deployments",
-        "description": "F5 AI Gateway enables protection and optimization to deliver ideal user experiences Partner content\u00a0 Organizations deploying AI applications are discovering that traditional security and delivery approaches have limitations. Unlike conventional web applicatio\u2026",
-        "url": "https://www.theregister.com/2025/07/24/overcoming_app_delivery_security/",
-        "urlToImage": "https://regmedia.co.uk/2024/07/16/shutterstock_dark_ancient_gate_radiating_light.jpg",
-        "publishedAt": "2025-07-24T03:31:54Z",
-        "content": "Partner content Organizations deploying AI applications are discovering that traditional security and delivery approaches have limitations. Unlike conventional web applications that behave predictabl\u2026 [+5994 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "GlobeNewswire"
-        },
-        "author": "MARA Holdings, Inc.",
-        "title": "MARA Holdings, Inc. Announces Pricing of Upsized $950 Million Offering of 0.00% Convertible Senior Notes due 2032",
-        "description": "Miami, FL, July 23, 2025 (GLOBE NEWSWIRE) -- MARA Holdings, Inc. (NASDAQ: MARA) (\u201cMARA\u201d or the \u201cCompany\u201d), a leading digital energy and infrastructure company, today announced the pricing of its upsized offering of $950 million aggregate principal amount of 0\u2026",
-        "url": "https://www.globenewswire.com/news-release/2025/07/24/3120724/0/en/MARA-Holdings-Inc-Announces-Pricing-of-Upsized-950-Million-Offering-of-0-00-Convertible-Senior-Notes-due-2032.html",
-        "urlToImage": "https://ml.globenewswire.com/Resource/Download/c6f90e85-d59a-4fb2-9c10-de6e48201994",
-        "publishedAt": "2025-07-24T03:23:00Z",
-        "content": "Miami, FL, July 23, 2025 (GLOBE NEWSWIRE) -- MARA Holdings, Inc. (NASDAQ: MARA) (MARA or the Company), a leading digital energy and infrastructure company, today announced the pricing of its upsized \u2026 [+12139 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Science Daily"
+            "name": "Databricks.com"
         },
         "author": null,
-        "title": "Concrete that lasts centuries and captures carbon? AI just made it possible",
-        "description": "Imagine concrete that not only survives wildfires and extreme weather, but heals itself and absorbs carbon from the air. Scientists at USC have created an AI model called Allegro-FM that simulates billions of atoms at once, helping design futuristic materials\u2026",
-        "url": "https://www.sciencedaily.com/releases/2025/07/250723045707.htm",
-        "urlToImage": "https://www.sciencedaily.com/images/1920/concrete-testing.webp",
-        "publishedAt": "2025-07-24T03:22:15Z",
-        "content": "Imagine the concrete in our homes and bridges not only withstanding the ravages of time and natural disasters like the intense heat of wildfires, but actively self-healing or capturing carbon dioxide\u2026 [+6002 chars]"
+        "title": "How KPMG uses Delta Sharing to access and audit tens of billions of transactions",
+        "description": "Learn how cross-cloud sharing simplified energy audits and learn takeaways to boost your own audit quality, efficiency and data control.",
+        "url": "https://www.databricks.com/blog/how-kpmg-uses-delta-sharing-access-and-audit-tens-billions-transactions",
+        "urlToImage": "https://www.databricks.com/sites/default/files/2025-09/kpmg-delta-sharing-access-audit-tens-billions-transactions-blog-og.png",
+        "publishedAt": "2025-09-19T19:10:00Z",
+        "content": "Seamless and secure access to data has become one of the biggest challenges facing organizations. Nowhere is this more evident than in technology-led external audits, where analyzing 100% of transact\u2026 [+7736 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Researchbuzz.me"
+        },
+        "author": "ResearchBuzz",
+        "title": "Dominican Republic, Rabbi Norman Lamm, Microsoft, More: Friday Afternoon ResearchBuzz, September 19, 2025",
+        "description": "NEW RESOURCES Google Blog: Learn more about Hispanic and Latino culture with help from Google. \u201cOn Google Arts & Culture, we\u2019re launching a new partnership with the CUNY Dominican Studies Institute, featuring [\u2026]",
+        "url": "https://researchbuzz.me/2025/09/19/dominican-republic-rabbi-norman-lamm-microsoft-more-friday-afternoon-researchbuzz-september-19-2025/",
+        "urlToImage": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJSZXNlYXJjaEJ1enoiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6NDMyODc1Nn0.BjdcPIDlw4ZG0Ki13B-quwxnrzAxn9iB5rJXagRMNlcMQ",
+        "publishedAt": "2025-09-19T19:05:39Z",
+        "content": "NEW RESOURCES \r\nGoogle Blog: Learn more about Hispanic and Latino culture with help from Google. \u201cOn Google Arts &amp; Culture, we\u2019re launching a new partnership with the CUNY Dominican Studies Insti\u2026 [+3748 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Pypi.org"
+        },
+        "author": "sage-support@googlegroups.com",
+        "title": "passagemath-macaulay2 10.6.25",
+        "description": "passagemath: Computing in commutative algebra, algebraic geometry and related fields with Macaulay2",
+        "url": "https://pypi.org/project/passagemath-macaulay2/10.6.25/",
+        "urlToImage": null,
+        "publishedAt": "2025-09-19T19:02:50Z",
+        "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
     }
 ]
