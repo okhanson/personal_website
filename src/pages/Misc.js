@@ -14,9 +14,7 @@ function Misc() {
     <section className="py-16 px-6 bg-white text-center">
       <h2 className="text-3xl font-semibold text-green-800 mb-6">Market & Tech News</h2>
       <p className="mb-8 text-lg text-gray-700">
-        Auto-updated daily from NewsAPI.org. Based on key-word search, displays news I'm likely to be interested in. 
-        Hopefully gives you some insight into how I keep track of what's going on in the world. Updates daily! 
-        Or whatever the max usage is for my free API...
+        Auto-updated daily from a web scraping python script, pulling news articles based on keywords I'm interested in. 
       </p>
       
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 max-w-6xl mx-auto">

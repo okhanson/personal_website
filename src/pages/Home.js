@@ -93,7 +93,7 @@ function Home() {
             />
             <h3 className="text-xl font-bold mb-2">Master of Science in Business Analytics</h3>
             <p className="mb-2 text-gray-700">California Polytechnic State University, San Luis Obispo</p>
-            <p className="mb-2 text-gray-700">Expected Graduation: 2025</p>
+            <p className="mb-2 text-gray-700">Graduated with Distinction in 2025</p>
             <p className="mb-2 text-gray-700">Focused on data science, machine learning, and strategic analytics</p>
           </div>
         </div>
