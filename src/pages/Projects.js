@@ -4,6 +4,37 @@ function Projects() {
   return (
     <section className="py-16 px-6 bg-white text-center">
       <h2 className="text-3xl font-semibold text-green-800 mb-6">Projects</h2>
+      {/* Diabetes Detection with Keras Neural Network */}
+      <div className="max-w-3xl mx-auto text-left bg-gray-100 p-8 rounded-lg shadow-md mb-10">
+        <h3 className="text-2xl font-bold text-green-800 mb-2">
+          Diabetes Detection using Tensorflow NN with SMOTE/Class-weighted with Batch Normalization        
+        </h3>
+        <p className="text-md text-gray-600 mb-4 italic">
+          2025
+        </p>
+        <p className="text-lg mb-4">
+          This is less of a ptoject and more of a sandbox exploration of building neural networks with Keras. The data is from kaggle, but my notebook works through different configurations of the Neural Network model for binary diabetes detection. Includes SMOTE (synthetic minority oversampling technique) vs class weighting techniques to address class imbalance, and batch normalization layers to improve training stability and performance.
+        </p>
+        <p className="text-md text-gray-700 mb-6">
+          Tools Used: Python, Keras, TensorFlow, Data Visualization
+        </p>
+        <div className="flex flex-col items-center space-y-4">
+          <a
+            href={`${process.env.PUBLIC_URL}/Diabetes_Detection.ipynb`}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-sky-500 hover:underline"
+          >
+            View Notebook
+          </a>
+
+          <img
+            src={`${process.env.PUBLIC_URL}/cw_roc_auc.png`}
+            alt="ROC AUC"
+            className="max-w-full h-auto mt-4 rounded shadow"
+          />
+        </div>
+      </div>
 
       {/* CLARITAS AI PROJECT */}
       <div className="max-w-3xl mx-auto text-left bg-gray-100 p-8 rounded-lg shadow-md mb-10">

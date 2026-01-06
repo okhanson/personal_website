@@ -39,9 +39,9 @@ function Home() {
         className="max-w-[150px] rounded-full mx-auto mb-6 shadow-lg object-cover aspect-square"
         />
         <p className="max-w-2xl mx-auto text-lg leading-relaxed">
-          I'm currently a Professional Business Analyst, after completing my Master of Science in Business Analytics at Cal Poly, San Luis Obispo.
-          I’m passionate about using data to influence big business decisions — especially in aerospace,
-          cloud platform, and tech spaces. Outside of work, I love exploring California and staying active outdoors!
+          I'm currently a Professional Business Analyst after completing my Master of Science in Business Analytics at Cal Poly, San Luis Obispo.
+          I’m passionate about using data to influence big business decisions, especially in aerospace,
+          consulting, and tech spaces. Outside of work, I love exploring California and staying active outdoors!
         </p>
       </section>
 
@@ -93,7 +93,7 @@ function Home() {
             />
             <h3 className="text-xl font-bold mb-2">Master of Science in Business Analytics</h3>
             <p className="mb-2 text-gray-700">California Polytechnic State University, San Luis Obispo</p>
-            <p className="mb-2 text-gray-700">Graduated with Distinction in 2025</p>
+            <p className="mb-2 text-gray-700">Graduated with Distinction (2025)</p>
             <p className="mb-2 text-gray-700">Focused on data science, machine learning, and strategic analytics</p>
           </div>
         </div>
