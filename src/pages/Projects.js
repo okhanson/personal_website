@@ -68,6 +68,11 @@ function Projects() {
           >
             
           </a>
+                    <img
+            src={`${process.env.PUBLIC_URL}/clarix.png`}
+            alt="clarix"
+            className="max-w-full h-auto mt-4 rounded shadow"
+          />
         </div>
       </div>
 
